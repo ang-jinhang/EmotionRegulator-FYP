@@ -1,0 +1,4 @@
+include ':tiny-weka'
+include ':weka'
+include ':app'
+rootProject.name = "Emotion Regulator"

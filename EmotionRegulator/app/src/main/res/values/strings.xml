@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Emotion Regulator</string>
+    <string name="title_activity_emotion_confirmation">Emotion Confirmation</string>
+
+    <!-- Strings in the UI -->
+    <string name="textInput_title">Tell me something!</string>
+    <string name="textInput_instruction">Write something like a tweet or status message, and we will guess how you are feeling.</string>
+    <string name="textInput_hint">Write something here…</string>
+
+    <string name="emotionConfirmation_calm">We guess that you are kind of calm right now.</string>
+    <string name="emotionConfirmation_happy">We guess that you are feeling kinda happy now.</string>
+    <string name="emotionConfirmation_sad">We guess that you are sad now.</string>
+    <string name="emotionConfirmation_angry">We guess that you are angry or frustrated now.</string>
+    <string name="emotionConfirmation_question">Is this correct?</string>
+
+    <string name="regulationConfirmation_confirmation">Do you want us to help you with down-regulating your negative emotions?</string>
+
+    <string name="emotionEditor_editInstruction">We got it wrong? Never mind, you can manually edit the sliders below to reflect your mood.</string>
+    <string name="emotionEditor_editInstructionBack">You can always press back if you changed your mind.</string>
+    <string name="emotionEditor_editDone">I\'m done!</string>
+    <string name="emotionEditor_calm">Calm</string>
+    <string name="emotionEditor_happy">Happy</string>
+    <string name="emotionEditor_sad">Sad</string>
+    <string name="emotionEditor_angry">Angry</string>
+
+    <string name="angerDownRegulation_introduction">Let\'s do some deep breaths to calm yourself down before continuing, shall we?</string>
+    <string name="angerDownRegulation_instruction">Inhale and exhale following the bar below, click Start to continue!</string>
+    <string name="angerDownRegulation_ready">Ready</string>
+    <string name="angerDownRegulation_inhale">Inhale</string>
+    <string name="angerDownRegulation_exhale">Exhale</string>
+    <string name="angerDownRegulation_finish">Finish!</string>
+    <string name="angerDownRegulation_remainingCounter">Let\'s do it for a few times…</string>
+    <string name="angerDownRegulation_remainingCounterLast">Let\'s do it one last time…</string>
+
+    <string name="sadnessDownRegulation_introduction">It is okay to feel sad, but if you need help snapping out from it, try to answer the questions below.</string>
+    <string name="sadnessDownRegulation_note">Your answers are not stored, so feel free to write anything you think about. You can also not write anything - you choose!</string>
+    <string name="sadnessDownRegulation_hint">Your answer here…</string>
+    <string name="sadnessDownRegulation_foodQuestion">What was a pretty delicious meal you previously had? Try describing it too.</string>
+    <string name="sadnessDownRegulation_successQuestion">What was something that you succeeded in doing?</string>
+    <string name="sadnessDownRegulation_eventQuestion">What was an event you want to participate in again and why?</string>
+    <string name="sadnessDownRegulation_surpriseQuestion">What was a happy surprise that you remember?</string>
+    <string name="sadnessDownRegulation_placeQuestion">What is a place you really like and enjoy every moment you are there? And why?</string>
+    <string name="sadnessDownRegulation_actionQuestion">What is something that you really like to do? Do you have any stories related to it?</string>
+
+    <string name="feedback_title">Hope that you feel better now!</string>
+    <string name="feedback_question">Do you want to come back a while later to continue the regulation?</string>
+
+    <string name="feedbackContinue_title">We will remind you a while later then!</string>
+    <string name="feedbackContinue_leave">See you later!</string>
+
+    <string name="feedbackEnd_title">See you next time!</string>
+    <string name="feedbackEnd_leave">Bye!</string>
+
+    <string name="emotionUpdater_title">Welcome back!</string>
+    <string name="emotionUpdater_instruction">Your emotion had probably changed while you\'re away. How do you feel now?</string>
+
+    <string name="noregulation_title">You seem to be in a pretty good mood then!</string>
+
+    <!-- Generic strings in the UI -->
+    <string name="button_yes">Yes</string>
+    <string name="button_no">No</string>
+    <string name="button_start">Start</string>
+    <string name="button_finish">Finish</string>
+    <string name="button_next">Next</string>
+    <string name="button_stop">Stop</string>
+    <string name="valence">Positivity/negativity of your current emotion:</string>
+    <string name="arousal">Level of intensity of your current emotion:</string>
+    <string name="valenceEstimated">Estimated positivity/negativity of your current emotion:</string>
+    <string name="arousalEstimated">Estimated level of intensity of your current emotion:</string>
+    <string name="pleasewait">Please wait…</string>
+    <string name="waitreason">We are analysing and this will take a while.</string>
+    <string name="channel_name">EmotionRegulatorNotifications</string>
+    <string name="channel_description">Channel for delivering notifications for continuing the emotiion regulation cycle</string>
+</resources>

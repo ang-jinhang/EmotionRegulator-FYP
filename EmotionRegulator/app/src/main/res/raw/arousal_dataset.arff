@@ -1,0 +1,2746 @@
+@relation dataset-bow-arousal-weka.filters.unsupervised.attribute.NominalToString-C1
+
+@attribute text string
+@attribute arousal numeric
+
+@data
+'running lil  place called silverwood today ! ca wait ! happy',8
+'really wana move soon !',6
+'thinking charity cup',1
+'thinks girls , boys easily found . girls realize need men ! !',6.5
+'wedding anniversary tonight ..',4.5
+'sip crystal real ones',2
+'believe hype raleigh ! snipdown going go ! !',7.5
+'would like thank family friends came celebrated well showered new lil man love gifts . great ! love family friends .',5.5
+'holy shit .. still playing go meeting .. tech support .. help .. help . mama tired',5.5
+'happy bomb',4
+'getting ready big move people',5.5
+'happy happy happy new year everybody ! ! optimistic hopes  .',8
+'ca believe michael jackson dead !  ',6.5
+'help ! looking childbirth class , preferably weekdays . found , offering sunday morning classes , starting sunday . suggestions ? thanks !',6.5
+'exhausted . think colic . wrenches back cries forever . mostly morning though right bed . ouy !',5.5
+'would like send shout thanks little helper weekend .',2
+'finally   fit ..',3.5
+'making smores kids ! want camp tonight ! ! ! ! ! ! lol ! ! ! let see goes ! ! ! ! ! ! ! !',9
+'weekend ? eat , eat eat , bbq time ! ! ! !',8.5
+'sad alone , one truly depend . zetsu',2.5
+'around ..',1
+'going atl weekend see mawmaw',3
+'thoughts , thoughts thinking ? . thoughts come go  thoughts . body ? tell us millions cells body changed renewed every minute , sothat end seven years havea single living cell body seven years . cells come go . cells arise die . seems persist . body ? evidently  ',4
+' days',1.5
+'ergh , anatomy ,  page outline  pages pictures label tomorrow , curse procrastination . may rot forever purgatory',4.5
+'bought wedding dress monday wait ! ! ! ! sooo beautiful',8
+'hot pot !',7.5
+'pleading .. anyone would like tax credit , instead paying would pay state , kindergartners really would like go field trip pumpkin patch  district cuts , pay bus . email info   kinders would grateful ! thanks',3
+'memory every cancer patient , family members  friends lost battle cancer , honpor continue conquer ! put  hour love someone cancer . many wo copy  paste . proud . ?',4.5
+' ,  go , come ss ! make happy guy ! happy',7
+'pancakes apperantly good laughing laughing hope get sick laughing',5.5
+'got new tat ! got cest . get finish hurt fucking much . fuckin awesome lookin tho',8
+abcdefuck,4.5
+'big weekend coming . band performing bay islands country rock festival .. yeeeehhhaaaaaaa ! ! !',8
+'looking job indy .. suggestions ? ? ? ? ?',3.5
+'successful people focus problem . focus solution . focused solution.  ',3
+'reggie bush man ! ! ! !',7.5
+'never thought would happen ! coworker asked case mondays !',6
+'good night everyone ! ! ! pleas smile go bed .. case something happen .. fall asleep indefinitely .. smile face ..',4.5
+'driving cape may weekend . bored ..',2
+'cracked another one ! ! ! one go ! ! !',7.5
+'contemplating spend xbox points ..',1.5
+'la lingaw .. sleepy na .. work napud ugma . hehehe',2
+'according nbc news people getting social security wo get increase bcause cost living going , inflation rate negative .. first cost living always going , second inflation rate negative , thir cheeky , playful negative would inflation , wuld deflation',3
+'school messed',3
+'florida virtual school sux ass',4
+'finally got working phone .. nice !',5.5
+'discussion environment natural world  destroying   year old raised hand something say. , well',3
+'matter party , time point fingers . woman many people attacked person society . everyone prayers include , hardcore conservitive . remember america think differently , result happened today . god',2.5
+'shld win new zealand award miss blob love dad hahaha  ',4.5
+'cell phone hold tons pictures claim texting inbox full hundred short text messages ?   ',3
+'thanks bday wishes everybody ! great day .. saints mopped floor giants   woo , hoo !  , sushi ! could ask ? !',7.5
+'drank kc tea last night . pretty good ! !',6.5
+'cause american ggggiiiirrrlll ! ! ! ! got give tom petty',7
+'starting first night new job tonight .. happy ! happy',7
+'yea , jets .. shut',3
+'fixin  party halloween .',1.5
+'amazing day . thanks encouragement . fire . got go christian concert sedalia see sings savior lives . also weave life changing wonderful thankful blessed .',4
+'edition  completed today .. nice . laughing one edition .  shower time symbolic logic time .. yeesh ..',3.5
+'ive learned things weird bad weird good weird',2
+'think spent   time others less   . slowly realizing almost everyone world almost statistics . feels good victim also compells think ideal way living life !',5
+'someone make facts website compete chuck norris .',1.5
+'like reminded iknowwatsgdforu attitude gahment institutions display  ',3.5
+'got back handling classshopping little ago . trying heals rotc uniform , bad idea since ankle got irritated class . put heals , could barly walk hurt ankle litterally popping rolling .. much getting better . skeptical , annoyed , undecided , uneasy hesitant',3.5
+'life wisdom consists constantly engaged letting go',1.5
+'honestly never saw enjoyment watching people physical activity , play football , cares ?',3.5
+'oh , looks like going draw .. straws .',4.5
+'patience .. hahaha ..',3.5
+?,2
+'dogs fantastic . chester farts , gets runs room leaves deal .',2
+'totp sat',2.5
+'fun sun ! !',7
+'sooo tierd',3
+'.  . put dog .  profile   respect , apology   show .           animal cruelty',3
+' many great achievements world accomplished tired discouraged men kept working',2.5
+'hoping go zoo great wolf .. hope , hope ..',3.5
+'patiently waiting days',1.5
+'true know got lose , also true know missing arrives .',2
+'thinks funny stick fingers throat make vommit ..',3
+'ok. done beach today . might promenade tonight tomorrow .',1.5
+' hrs mid night release black ops .',1.5
+'wow many people school found lately . really happy even remember . miss guys',4.5
+'happy bday angel .. miss love . see soon ..   ',5
+'yay going ontario mills birthday   pfftt late , e cheeky , playful ected .. laughing  ',5.5
+'exactly magical birthday first day yardah , yardah , yardah .. birthday messages definitely cheered though ! laughing',5
+'nothing mind .',1.5
+real,2.5
+' innocent  wait upon lord shall renew strength  shall mount wings eagles  shall run , weary  shall walk , faint .',1.5
+'government lost , alien empire gives free food med world trusting . loose group families media calls unmarked flee remote areas states , provence ghettos world .. head ! ..',4.5
+'dog fairfax county bet fake trynna skool dough',4.5
+'greater gift give receive honor , calling . born . become truly alive .',3
+'cool like    ',2.5
+'loves pizza ..',2.5
+'many times mistreat constantly biting hands feed ?',3.5
+'got accepted kitchen manager program .. baby way .. ? ? ..',5
+'first day school course taken six hours mass hearing   pm followed first talk singles christ love god . maximized time accommodate activities ',2.5
+'anyone knows anything history knows great social changes impossible without feminine upheaval . social progress measured exactly social position fair sex , ugly ones included .',3.5
+'holy fuck supposed get weekends cheeky , playful',6.5
+'yay ! friday !',7
+'conspiracy theory . land lord thinks stilling light bulbs house . go bad asked . hum let think . right light bulbs never go . thinking . way hit need light bulb . many . maybe even get magic bulb never needs replacing . god',4.5
+'christmas almost ! ! ! jesus born , years  days ago .. praise jesus ! ! !',7.5
+'sick sucks .',3.5
+'party !',6.5
+'got new cell phone yesterday text meh laughing',4
+'finally cooled enough open windows cool house bed . however , skunk decided stinky business outside . eww . bad skunk . bad .',3
+'fat . happy fat',3.5
+'shh hear ! omg calling .yep bed calling .. night sweet dream .. zzz',4.5
+'omg , life difficult ? ? ? one door closses another one opens , well f    door ..',6.5
+'black hats sideways white bold la',2
+'gone greenway . mile run !',5
+'yes slaughter ping pong , thanks asking .',2
+'officially certified personal trainer',2.5
+'bought megaman  wii . hardest game ever tt',2
+' years ago , night like tonight .. road called roller coaster ..',1.5
+'feel like clean house , going lay feeling passes .. cheeky , playful ',2
+'realise bad dead leg could ..  days .. still bad day  .. wtf',4
+'wowso many bday wishes continue comethanks much everyone ! .. give shout best sous chef working prepare us awesome dinner hyeholde moonamy hebster man ! !',6
+'got dem brain dawgs !',8
+'phone numbers facebook ! ! joke .. go top right screen , click account edit friends . go left side screen click phonebook . everyone phone numbers published . please repost let .. friends know happening remove number .. scary stuff',7
+'wow .. dad . awesome moment teenage life ? think falls . thanks ! happy',4.5
+'fell muddy brook',2
+'know respond negativity . let lord fight battles . way better . trust lord lean understanding . selfcheck .',2.5
+'one crazy ass day glad ..',5
+'line work , rarely opportunity actually refuse anything  , really appreciate invites requests regarding lameass facebook games . flatly ignoring quite cathartic .',3
+'chicken egg bed , chicken head pillow smoking . egg rolls annoyed saysi guess answered question.  ',1.5
+bored,1.5
+'making love ego .',1
+'feels tight literally !',4.5
+'guys great .',3
+'feel knackered great couple days best company . always great show great guy ! role next gig',5
+'got sure !',6
+'thank every  happy bdays . fun , dinner movie thanks babe .',4.5
+'super stressed second month school .. sadness',7
+'accept full responsibilty wrong done , thought perfect , apologise human , never , put life',3.5
+'make new year .. like fuckin  catalina wine mixer ! ! ! ! !',8
+'rise . fall . rise . kill ya make ya strong .',2
+'going today like going gun fight spoon . lets go yankees !',6.5
+'need ask full time .. def full time yeaaaaaaaaaaaaaa yeahhhhh',4
+'note self says flammable  mean sugguestion ..   .  ',2
+'playing guitar , hanging pals  walking air life .',2.5
+' afk weekend , wet weather camping skill !',5
+'thanks prayers happy',4.5
+'working grad night intire time hours sleep !',5.5
+'doormat written forehead .. ? skeptical , annoyed , undecided , uneasy hesitant',4
+'blessed feels like heaven !   ',6
+'life confusing .. sometimes feel happy , sometimes feel sad .. sometimes sad happy .. damn retarded ..',4
+'lol true urban dictionary  buy mugs',4
+'wish would phone email . seattle , gone almost week word . frown , sad , angry pouting',4.5
+'son baked birthday cake last night everyone sang happy birthday .. felt love ! today weather beautiful .. really november ? feels like spring !',7
+'ouch .. head',3
+'bye everyone  weeks going armenia baby see guys later',7.5
+'touched birthday wishes . thank ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! xoxoxox smile big split face ! ! ! happy              ',8
+'looongg great day work .. time sit back relax best way , ',4
+'one mo gen upportin one boyz take dat plunge best wishes honored stand embark next chapter life . love guys like play cousin !',6.5
+..,2
+'workin  days week good tha  like wan na go catch flick ya kno ! insted workin catchin drinks afterwards ! ya kno .. lol wants go ! gon na try get day next week',4.5
+'apart really misses worlds .. longs live one right .',3
+'holy shit monday night amazing',5
+'rest peace . first love , always hold special place heart . thoughts prayers . miss love',4
+'stayed till  last night playing overlord raising hell . know',2
+'long time , finally get receive package ! ! ! although need declare medical status , need medical checkup ! ! woots ! ! ! laughing',8
+'faith choice lost man , angel , devel . god gave us choice , comand us . gave love us . pray wo lose faith , hope , love wo give , fight defend weak need . choice lose .',3
+'oh gee love sister much ! wish cool ! ! ! ! ! ! ! ! ! ! ! ! ! like even believe lucky super duper awesome big sister ! ! ! ! ! ! ! laughing dddddd',9
+'jellypuss ..',4.5
+'ramadan mubarak',6
+'wish could run friends used windsor although sixth grade lol',4
+'wow game boston could lakers took .',3.5
+'wow ! fun wedding p congradulations !',6.5
+'last happy',4.5
+'ready go happy',4.5
+'yayy ! electric guitar ! !',7
+'selfish , impatient little insecure . make mistakes , control times hard handle . ca handle worst , sure hell deserve best',4.5
+'getting ready go graduation . prpud jess . love',2.5
+'rest peace never forget .',2
+'.. signed lease ! officiallly living girl next year ! yayyy !',6.5
+'two weeks since last tae kwon doe lesson . going hurt .',2
+'life full fake peoplbefore judge , make sure one .',3.5
+'antibiotics kicking .. trying cough lungs , least feeling run . time go home tomorrow morning .. good times .',3
+'care new friend ?',5.5
+'listening hall mountain king , perpetuum mobile musical joke , hard core mozart .. real music rely words show emotion !',5
+'goin home year today happy',5
+'talked banky today . surprise . sounded really good sounds really focused comes home . slow day work',3
+'got e today .. awesome phone happy',4.5
+'dnt get scared .. jst missing .. darling curles ..',2
+'got ipod touch',1.5
+'oh blessed day ! ! ! ! getting ready go day , wife says please stop gamestop ?  finally growing gamer know ! ! !   ',8
+'hmmm work  solo ensemble b  debate c  chess  academics ? pick e  facebook xbox !  ',3.5
+'fed searching info man knew much . anyone help ?   ',3
+'thanks bday wishes . unfortunetly , sick since . better time leave tomorrow puerto ricoooo ! ! !',6.5
+'moment dreams become reality , moment know finally living ! ! e cheeky , playful erience ceasing exist ..',4.5
+'since stuck morgantown .. alchycider sledding',2
+'spent two hours cleaning basement boxes miscellaneous items . must  boxes .. garage yet go . yay , get look forward spring summer .',4
+'going home today kids great weekend god never knew much rlly missed wish never go back . love wish guys would never grow . love',4.5
+'life full surprises suspenses  happy  .. sometimes unbearable frown , sad , angry pouting',4.5
+'trying figure work thing hopefully get .',2
+'thanks everyone wished happy birthday amazing',3.5
+happy,3
+'birthday tomorrow ! ! ! ! excited',7
+'glad feeling better ready go back work lived phone computer day pjs .. bad thing moved accounts sat .. work weekend daughter bugging go dog show ca , , may accounts  ',2.5
+'thanks birthday wishes everyone ! ! !',6
+'summmerrrsss baaaccckkkk ! ! ! ! god missed fb ! ! !',8
+'theres fat guy pastry shop twenty dollar bill ready buy , order predict volume change need know value pi',2
+'think obsessed , weird .. jk',2.5
+'thanks everyone said happy birthday ..  wait march   happy',4
+'coffee ! ! !',6
+'time log ..',1.5
+'kinda upset couple friends might job important . ?',3.5
+'yay ! ! ! uni finally finished year happy hello three months happy',7.5
+'avoiding teased , might mean coward . never faced words thrown . never get angry still stuck somewhere heart might find years . wait come near say something . would glad hear ,       happy happy happy happy valentines day ! !',4.5
+'let snow , let snow !',4
+'may want take christ christmas , never take christ . ashamed christ post status  day light world . people ashamed scared . remember jesus said . whoever acknowledges men',4.5
+'always hard .. hurts bad ..',3
+'make good life one going ! happy',5
+'past  years employed  joke writers supplied one million gags , still could make laugh .',3
+'answered question friend facts',1.5
+'good luck everybody exams  prays ',1.5
+'ai world confusing ? retarded ! ?',4.5
+'life matter choice . often make decision meantime feel responsible choose ? ?',5
+'likes hammering nails weeding paths',2
+'mistakes always come back haunt yooou . regret something first time liffe , hate feeeeling . love',3.5
+'walking dead television pilot commense filiming may . fuck yes',7
+'started work , makin bank !',5.5
+' missed fg , dammit ! ! ! still like though kicker gets bar fights cool , seriously make fg !',6.5
+'damp morning , maybe angry old lady let us paint dew today instead sending us home , doubt .',3.5
+'ok .. finished reading latest bleach manga . still plans milk bleach even starting new arc . wonder would start scratch ? also looks like would bigger role .',1.5
+'wait june ',4
+'pizza reaches home faster ambulance  police , car loans    education loan    , rice rs  per kg sim card free , footwear sold ac showrooms , vegetables , eat , sold footpaths .. got change something ..',4.5
+'set tomorrow laughing excited happy',7
+'stupid frontierville bear scared cat clawed .',4.5
+'loui great bed',2
+'shortall love',2
+'friends going back home ! ! ! miss guys much ! ! ! frown , sad , angry pouting ',7
+'shout outs bro getting airport early  axing last  passengers checked due weight restriction ! holy balls',5.5
+'mrs gon na go shopping ! ! !',7
+'shame west indies frown , sad , angry pouting good luk  happy',4
+'great day ! ! thanks much birthday wishesblessingslove ! ! !',7
+'okay , school bad .. able sleep  extra hours awesome ! getting   better  !',6
+'need extra careful days . flu .. conjunctive eyes .. typhoid .. common results ignorance frown , sad , angry pouting',4
+'dota dota dota .. hehehehe isshhhh .. micro .. hmpf ..',5.5
+'mri done today .. prays  answer  pain healn body . god bless fb .',2.5
+'finally became member facebook . yay joy lets hear boredome minds ..',2.5
+'yo buy bus tickets back vt !',5
+'told today alot pistures facebook.my response , love ! .. true ! disliked hated anybody , head remains high . deuces',4.5
+'enjoying day ! !',5.5
+'squirell dead sad crying lagrima',4
+'long day ! birthday parties always drain . renting weeds season  snuggling lovey night . ahhh ..',5
+'thanks birthday wishes friends .. appreciate ..',2
+'new ideas dead night dreaming natural ..   ',3
+'much drama lbc , kinda hard bein  snoop double g , somehow , way , keep comin  , funkyass shit like every single day may kick little somethin  g make ends , breeze two tha mornin party still jumpin , cause mama ai home .',2.5
+'got sent home work early , chillin home bored hella pain . wish doctor would precribed pain killers .',2.5
+'sudden change plans . work hoping family got canceled , may cost need get honeypot . know next couple days going thurs skeptical , annoyed , undecided , uneasy hesitant',2.5
+'war page . need one person attack',1.5
+'ga. tiny fraction children happened mystical , magical age range woken wind chrismas eve heard little branches acorns tapping roof swear next years heard santa . love .',3.5
+'sorry farmvill mafia players .. , think ill .',2.5
+'finally switched swing . see sleep night .',3.5
+'laughing ddddooooooooxxx laughing ddododoxoooxoododo laughing x laughing laughing ox surprise sadness xo laughing ox laughing ox  laughing laughing doox laughing laughing ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !',8.5
+'give perfect simple situation',1.5
+'  oo big grin probably going work sisters house  oclock rest summer break .. sadness sorry , . rp sometimes .. need energy work .  ',4
+'saw blind side last night , favorite football movie ever !',5
+'thanks guys ! great bday ga fam .',5
+'getting ready take youngest see princess frog , fun !',5
+'india foxtrot yankee oscar uniform alpha november uniform november delta echo sierra tango alpha november delta tango hotel india sierra , oscar papa yankee alpha november delta papa alpha sierra tango echo tango yankee oscar uniform romeo sierra tango alpha tango uniform sierra ! ! !',6.5
+'weekend almost ! yay !',6
+bored,1.5
+'hell tweet ?',3.5
+'tied south soooo ! ! ! ! !',7
+'got sick .. resting ..',2
+'reliving childhood',1
+'mom  remember time got ld mom  phsch',1.5
+'logizomechanophobic !',5.5
+'roll tide ! ! ! ! !',8
+'uhh hate instutor lets us go early wait anthor hour next class start .',4.5
+'thank thinking happy god getting old .',4.5
+'made really tasty mac cheese soup tonight . yummy !',4.5
+'ever get going .. , know ? wind blew right direction , would even care .. would .',2
+'told graders school santa magical ninja kill cookies belived . love job .',3.5
+'brought truck back dead yesterday .. yee haw ! omg zombie truck ..',5.5
+'bummer .. cowboys ..',2.5
+'robbed man think dance ! ! ! !   ',6.5
+'birthdays feel like birthdays anymore',3
+'mayer ruined head , boy steps window cries ledge people . theres time pray theres time fight . anything weapon holding right . defend , take souls . time rise , fight .  save city  ludo',2
+'wtf ! season set glee ? rocks !',6
+'time finish moving stuff .. lets hope take long',2
+'happy thanksgiving',5
+'lil walks bedroom dad mom bent going . dad winks leaves . dad thinks better talk . looking whole house dad finds upstairs grandma bent putting hard . dad flips . hell ? winks says .. funny mom huh bitch ? !',4
+'youmacon absolutely amazing gon na start getting ready next year soon',7
+'babe drowning silent eyes . died make king anything ?',3
+'thx well wishes !',4
+'new york cub scout overnight ss littlerock . great afternoon shopping guys complaining long taking ! wonderful .',4
+'really tired evening . cleaning day time relax call day . good monday everyone .',1.5
+'caaaa sleep sadness , got wake hours work sadness sadness sadness',4.5
+'jimi hendrix never died god took heaven teach play guitar',6
+'many records broken one daytona , makes sense winner historical well . awesome freakin  finish , huge congrats trevor bayne ! awesome !',5.5
+'really today .',2.5
+'blessed night thank coming betufill double ritual night thank came',3.5
+'oftn usd say momm tat vud neva miss .. bt dae missin ..  mch .. luv mom .. ! !',5.5
+'think go back work tomorrow .',1
+'time roll fnm white eldrazi . see plays .',1.5
+'movie pops . stoked .',3
+'freakin bored somebody suggest something come different ways kill',3
+'tired ..',2.5
+'poppin  champagne',2
+'today thankful live world technology advanced options great almost anything possible ! also like able watch part technological revolution moving bag phone seeing droid cool !',5
+'gon na die lack sleep one day .',1.5
+'merry christmas everybody .. getting ready  way .. happy',4
+'traveling outside three mile radius apartment mother ever .',2.5
+'interview nashville fire department ! pray well .',5
+'goodluck guys ! ..',5.5
+'still belive going go permit tommarow .',4
+'live .. live right , enough happy',3.5
+'today long productive . think relax jacuzzi jump bed . best part every day must end .',2.5
+'thinking maybe agreeing another shift full hour night shift may bad idea .. even  hours time ! sleep  hours happy',3.5
+'going insane !',5
+'need chicken farmville , please help help help !',6.5
+'seen schroderhuis yet ? join shame ! audiotour tomorrow   .',4
+'lil mans movin around much feel like havin ticks ..',3
+'finished watching platoon . definitely recommended weak stomach .',2
+meh,1.5
+'way toowoomba ! ! ! ! ! woohoo .. wait airport ruddy plane stuff !',8
+'bored .. wait ta come someone ta talk .. really need ta talk ta someone',2
+'woching nfl happy hd tv allmost makes haveing foxtel eny',4
+'curses gulible .  wtf . curses .. ',3
+'time get rdy work tt  anything day',2
+'got back camping . happy',4
+'tryouts day ! ! ! excited',7
+'awwwwwwww cowboys r losing .. stupid vikings',4
+'missed !',5
+'ha sucks fer trevor',3.5
+'hair post pic later going get ready see got store today peace',3.5
+'last night amazing ! see anthony rapp adam pascal last performance rent , also ended night  fires lounge whole cast celebrating !',6.5
+'weeded , tilled , weeded , composting , fixing till .',1.5
+'thanks b day wishes ! !',5
+'thinks waking  punishment god',2.5
+'minute action equal infinite amount prayer .',1.5
+'magicalsuper power like would able see auras psycic powers . awesome would life abilities .',2
+'feels gud back fb .. frenz r missd',2.5
+'know wrtie box',1
+'dam fresh memories .. shit funny cuzin ! man ball wit kinfolks ! lmao ! trip , comin december fa sho . know ms.mom gon na feastin around time .. oh ! time maybe make pad ! lmao ! love cuzo.peace',6
+'yawwwwwwn nite people .. wait chant hiroko ! good !',5.5
+'baby polar bear goes mother asks , real polar bear ?    yes course . ask ?   baby replies ',2
+'yayerh !',7
+'today first day vacation . laying around day .. life .',2.5
+'wonder go school education knowledge , knowledge power , power corrupts , corruption leads crime crime pay ?',3
+'bowlingg today love hopefully get higher   p',4
+'mustard man ! woo woo bow ! shout know mustard man .',5.5
+'ca make life little easier , fully deserve , make little harder , also fully deserve .',3.5
+'happy got ta get weekend . happy',4
+'want tell everyone thank much birthday wishes',3
+'high tea ! ! ! happy',6.5
+'miss sun .',1.5
+'thx everyone de wishes tc hapi alwayszzz ..',3
+'man .. ilove much young .. coming home tomar',2.5
+'happy birthday ! !',5
+crying,4
+'birthday officially  best birthday ever',6
+'fell victim birthday prank ! ! ! gon na git guys ! ! ! ! ! !',8
+'issues wo hinder warmhearted !',5
+'last card ..',1.5
+'somebody pull walker think ready home happy   ',3
+allllllllloooooooooooooo,5.5
+'ok , watch news channel  dallas  happy  pm say picture . famous ! ! lol .',4.5
+'anyone graduation pictures use new dream website ? ? must cap gown ! ! ! need right ! ! ! like next hour  pm . thanks ! ! !',7
+end,1
+'thank birthday wishes , great birthday',2.5
+'england  ',3
+'live love laugh think sleep work die .. cheeky , playful',3.5
+'life made unfair live fair .. agree ?',2.5
+'fun night ! excited tomorrow !',5.5
+'ny definitively special kind energy  making tired , making want life , thinking possible .',2
+'rough weekend farran thing paint brinker parking garage part yellow car ! ac went yesterday , motor , got fixed hour ago . tabby crappy softball practice coach lot family team fair , mom tongue def bleeding much bit today ! gon na get better though , thinking positive !',4.5
+'think converted .. officially gleek !',5.5
+'many years millions people trusting mainstream media releav pain suffering caused .. thinking stuff !',4.5
+'never time anything !',5
+'creepy old men know insist adding friend ?',4
+'eh get go aso .. tired .. idk ill make',2.5
+'sunday night football baby ! ! ! ! go green bay ! ! ! going stomp bears woot woot ! ! ! !',8.5
+'man beautiful day think gon na go drive .. know know long .. tops music blastin thats sure !',5
+'yaar mer mobile milana thaa long emergency duties nowadays',1.5
+'deadscared yet smiley facetoface meeting emma .. cute lilone , ..',3
+'time oil roadie ..',1.5
+'survived another weekend work .. come guess ! !',5.5
+'pa choww .. bexstar birthday party shall great !',5.5
+'life one big mess . ever learn figure .',2.5
+'thank wonderfull sentiments meant alot , never life remeber gettig many greetings nice . wonderfull day wonderfull time moms lit path barns year , flashlights yea ! ! horse lights scared storms strange reason . love mama',4.5
+'yay ! ! ! got pass back ! ! !',8.5
+'yipeeeee !',6.5
+'everybody hates , fuck , afraid cry , none business ! whose life ? get ? see ? feel ? eat ? spin around spit face . wan na leave without trace , cause wan na die place !',5
+' dollars ham sandwich ! ! anonymous professor',4
+'one know upload pics phone facebook ? ? got ta figure .. maybe damn palm centro !',4.5
+'sick dammit',2
+'excited purchased bunch new workout clothes ! wohoo ! better motivation book !',5.5
+'omg  creeping',3.5
+'fun sis halloween oreos .',1.5
+'championship nothinglos angeles lakers',3
+'less  hours big day ! ! ! ! ! ! ! !   ',8
+'michele .. life would suck without ..',3
+'thanks everyone',1
+'photos rock ! thanks fiona !  hugs ',5
+'little bit drained , alittle bit pumped .. mostly ready crawl sheets ! ! ! fun ? ?',6.5
+'react life head without joining forces heart , lead us childish , inelegant behavior respect . get head sync heart first , power teamwork working us make changes know need make .',2.5
+'mondays murder',2
+'tomorrow  birthday love . sunday  singles awareness day happy . monday  practice skeptical , annoyed , undecided , uneasy hesitant . text ? .',4
+'says  life music , play louder',3
+'tired family drama . seems like older get , convinced right act like total asshole .',3.5
+'.. morning everyone ! mwuahh .. sleep nah q , . , open p q .. .',3.5
+'hard optimistic feels like world .. want fucking car !',7
+'understand .. pass north korean border illegally get  yrs . hard labor , pass afghan border illegally get shot . pass american border illegally get job , driver license , allowance place live , health care , education , billions dollars spent read document . carry passports countries face jail time . repost agree',4
+'hate kind status , .. work day . txt get back asap happy haha ewwww , caved fb monster !',5
+'way florida',6
+'would like say huge thankyou lovely birthday wishes . lovely relaxed day getting old body take .',3
+'yes everyone alive ! ! okay phone still able keep contact everybody . fun halloween nevaeh little kitty cat , pics soon',5
+'sibling war ! ! ! ! copy paste sibling spends way much time facebook ! ! ! ! ! ! ! ! !',7
+'glad home work.merry christmas .',2.5
+'wait going buy new truck tomarro',3.5
+'jack trades , yet master none .',1.5
+'scripture says , one believes put shame.  ',2
+'cold baseball today . ?',2
+'hurt foot evry ! ! ! frown , sad , angry pouting sad , haha really ! xoxox',6
+'thinks facebook kinda fun',1.5
+'love aida .',1.5
+'uploaded mass weird pics lol wondering think !',4.5
+'hello fb friends virus spreading like wildfire , trojan virus worm called koobface . steal information , attacking computer andshut ! open link  obama clinton scandal  , smartgrrrl add friend ',3.5
+'thanks everyone left comment wall   . . . would reply , spare twenty minutes . love youuuu',3.5
+'savvy people answer question ? posted answers trying figure hell wrong stupid thing ca seem find ..',3
+'barcelona suckss hahaha arsenal  cmon baby ! ! ! ! !',7.5
+'memory full ! ca think anything today .. grrrrrr .. !',5
+'thank everyone make feel loved happy',4
+'looks someone shook snowglobe .',1
+'love qualities , love persons  sometimes reason defects well qualities ..',1.5
+'school tomorrow dangit',5.5
+'ya doin peeps ?',2.5
+'holy shit drew today . come !',5
+'luckiest person world know many fantastic beautiful people  loves ! ! !',7
+'think chicken soup !',6
+'wants see creative facebook friends r. leave one word comment think best describes using third letter first name . one word ! copy paste wall leave word ! comment copy paste ! play along . fun !',4.5
+'sols tommorow .. ughh',3
+'peeps bye .. cheeky , playful',3
+'sick crying tired trying yeah',5
+'owl city love',3
+'hope everyone go vote unc de rather stay home drink like dey win already',3
+'bad hair day   whatever ima bring ppl cookies ! make happy ! ! yay !',6
+'well question spoil first ? ? ? ? ? ?',4.5
+'going sleep stars ! laughing',5.5
+'bored crap',3
+'happy yo ! , let see pretty lights e cheeky , playful losions .. necessarily order time frame ! laughing',5.5
+'man sore excercising hard tonight think pulled muscle time ow ow ow',3
+'upon time .. gave shit',2.5
+'wait till wednesday cause goin angels house goin home till monday !',4.5
+'tired  hours still ca go bed shitting',4
+'sit  computer , suffering head cold . lil watches spongebob .',3
+'everybodys got something give , prevented using dental dam .',1.5
+'tonite .. let think .. happy gon na fun ! !',7
+'dead fblol',4
+'ne blame ? ? ? ? ? ? ? ? ? ?',5
+'excited tomarrow ! ! ! ! !',7.5
+'past bedtime wheeee ! waiting come home .',5
+'wat get grow hair ? ? ? ? ? ? ? greater visible hairfalllll .. ! ! ! ! ! ! !',7.5
+'great morning hit gym ! ! ! !',6.5
+'going bed try sleep ! aahhhh',4.5
+'omg aunt gayle chicago said brain boomer lmao  ',5
+'lol  people let  pigs loose skool .. .. labelled pigs   .. principal , etc found two pigs labeled   .. searching pig labelled  .. pig exist laughing .. love',4
+'get wear uniform every thursday yay',3
+'spending another lazy day home , liking . although admittedly becoming boring . may actually venture join human race .',2.5
+'say disip spanish disip gazzman wilton djkompa disip versace michael adolphe chancy , want tell dominican girlfriend since never heard name .. asked name drink .. lol .',2.5
+'todays birthday woohoo .',3
+'take jeopardy ! teen test .',2
+'love peace .',1.5
+'yest nite   earthquake delhi , felt tremors tym lyf ! ! ! thank god still alive ! !',7
+'happy new year yall',2.5
+'friends come go , , , thankful chose stay , , , coz think perfect friend .. trials encountered , still , stick together ! ! love gfs  bfs ! ! !',6
+'yiiiiiiiiiiiiiiiiiiiiiiiiiiiiiippeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !',9
+'sick tired sick tired !',4.5
+'merry christmas everyone ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !',8
+'duuuude .. brain dead right .. mellow .. like really mellow .. homo',3.5
+'cheesiest joke seen day  frayed knot . hahahahah ! , like ?',4.5
+'lol sight keeps telling two freinds idiots .',3.5
+'house m.d laughing',3.5
+'thinks sick cool ..',3
+'well , time get everyone ready .. jeremy singin graduation , jasmine going cousin , korina going grammy go work .. catch everyone laterz !',3.5
+'busy little bee .',2.5
+'scared . hate feeling . never scared .',3
+'computer slow . speed buddy !',4.5
+'yeah brithday party shyanne house god sister brithday',2
+'got bk frm spain soo tired got tan great time happy',3.5
+'happy veterans day served served ! !',5
+'tryn figure adopt pet ? ? ?',4
+'thanks birthday wish',2
+'maine happy',2.5
+'happy hump day !',4.5
+'could never figure people could hurt ones love , would thought would turn someone like . else say except sorry , change . empty words prove promise find way brings things back way , wo push away anymore . thank friend never gave .',4
+'life ish giving takeing love ..  whispers  try one takeing ! laughing',5
+'two roads diverged wood , took one less traveled , made difference .',2
+'thanks everybody wonderful birthday wishes ! ! ! luv ya ! happy',6
+'thank wishes ! !',5.5
+'love smell spring',1.5
+'yay assed geometry exam ! take test good ! happy',5
+'know people always telling done wrong live life , know ? cause life shit unfixable , think helping helps . say fuck want want people , life .',3.5
+'war eagles lets finish',3.5
+'hmm jnr still vomiting guess stop giving water crackers , hope hr thing',2
+'life bitter sweet sour like red wine .. hahahahaha',3.5
+'thanks everyone birthday wishes ! !',5
+'loves making friends battle wits bruises ego . thanks everyone birthday wishes ! ! !  wished happy birthday , .. ',5
+'yet acquire taste beer cheeky , playful',2.5
+'yay ! finally  ! thanks much everyone wishing happy one !',6
+'successfully saved energy afternoon rag ball . quite epic day .',3
+'rockband karaoke buffalo wild wings ! come rock gay bar !',5
+'sad . sitting coffee shop , planing plan .',2
+'monday , yup !',4
+'tired .. . hours driving lot one day  travel time , including breaks  lunch  fuel  . nice . weeks ktown , unfortunately got sick bday  least mostly better drive back . may post details later .',2
+'lazy ive overcome gravity ! ! !',5
+'haha jane mate bawbag deleted ! ! ! ! pmsl hun.xxxxxxxxxx',6.5
+'realize much mondays suck . may week end quickly .',1.5
+'streak ! ! ! lions win ! ! ! ! ! ! !',8.5
+'kids bed , watching tv getting ready bed also',1
+'watching anchorman happy',2.5
+'broncos superbowl xliv',1.5
+'make little hole tank drain dead ? .. cheeky , playful',2.5
+'thinking need invent contraceptive laundry baskets since every time turn around reproduced !',4
+'got new pic like ?',3
+'always remember unique . like everybody else .',1.5
+'starting get nervous starting new position .',2.5
+'get work get tools !   ',4
+'soooo excited movie colored girls',4
+'thanks birthday messages , rightg definately feeling year older !',4.5
+'soooooooooooooooooo ffffuuuuuccckkin tired cookin got damn day shit nigga get kinda brake good dough lucky love mom',8.5
+'need  b class work !',4.5
+'customer  want hot fudge sunday',1
+'happy monthsarry us . , ',2.5
+'going cleaning around house go throught girls clothes , fun today ! ! ! ! ! ! ! ! !',6.5
+'hope dance gon na suck time',2
+'kick ass dinner hubby nice evening home fire havin fun .. happy',3.5
+'tierd jerseyshore shi sad crying hey need bring camaras neck woods reality .',6.5
+'true friend care broke , house mess , past , family full crazies .. love ! true friend go long periods time without speaking  never question friendship ! repost blessed enough least one true friend . know',2.5
+'birthday would like family  friends  give one memory dad , matter small .',1.5
+'choose friend carefully , become introduction ! ! ! ! !',6.5
+'raining ? ! ? supposed rain ! sad ..',5.5
+'certain things r funny .. tell guy got man dey still try get da digits , dnt give   wan na talk sh  .. please helpme understand ladies  licker go lick cornball ',6.5
+'ever thought god would bless wonderful man beautiful daughter gorgous mother wonderful family friends . !',5
+'pics updated',1
+'small person carries big grudge',1
+'behind lies see secrets show',1.5
+'body hurts .. mas beer !',4.5
+'swear come back life till end time , swear keep right side cause baby one want , swear ! !',6
+'wants thank everyone happy birthday wishes ! ! ! ! love guys happy',6
+'going dance camp ! , yes ! ! ! ! ! ! graduated mean team get rid happy',7
+'goin fishin tomorrow .',1
+'gets first degree month ! ! ! getting associates get bachelor like things lol ! ! !',6
+'ca wait get hell apt',3.5
+'ormond beach , fl waiting get unloaded .',1.5
+'says happy birthday ! ! !  .. deep depression sets try come terms mother teenager ..   ',4
+'bored ..',2
+'dream design guitar amp guitar right',1.5
+'issues photos .. finally posted ! post later !',5
+'lovely day , lovely woman , breakfast , ..',2
+'wait , wait , camera ? ? ? think .. check news ,  degree weather ai goin nowhere ! ! ! phi beta sigma fraternity inc. presents  sleep homelessdoing part demonstration donation ! ! ! shout way ent . hosted successful annual cover city drive ! ! ! remember always thankful ! ! ! let go ! ! ! blue phi day !',8
+'chair , problem thats always say ! light houses rule ! .. lol',4.5
+'selling  mustang gt nitto  legends !',3.5
+'take one step awaythen find coming back youmy one , one onlyi take one step awaythen find coming back youmy one , one onlyyou ..',3.5
+'never realised someone could self centred ! could live self lie get sleep night . yes hurt people least learn admit wrong e cheeky , playful ect imeadiatly forgiven .. god damn',3.5
+'manu arsenal ..',2
+'boreddddddddddd ..',2.5
+'sent big toe half way shin bone thanks toe ala crunch via door jamb .. maybe time new glasses ? foot reduction also option happy   ',3
+'college closed till semester .. itz cold v hv releived frm gtng  mrng ..',2.5
+'awkward moment chilling ms fucking ugly sewer rat pops wo leave skeptical , annoyed , undecided , uneasy hesitant',3
+'telling someone full bullshit today never felt good . even nice say , truth felt great unleash .',3
+'ya allah .. help us .. crying',6
+'yo mamma stupid sat tv watched couch hahaha ! ! heard today ! ! xd offense moms hilarious',6.5
+'aargh like apps automatically updates , getting daily tarot , barfing profile time . app removed .',3.5
+'wants snow like huge blizzard type thing go sleding',2
+'getting ready dinner family . good birthday .',1.5
+'frequent facebook word day  mindmap.  ',1
+'made ittttt  ',3.5
+'wake morning , two simple choices , go back sleep dream , wake chase dreams , choice ! ',4
+'thank great times happy helped change life . ill love think forever ! xox',4
+'breakfast time !',4.5
+'every like soo much breaks heart ? little little break , stop emotions , understand either .. losing .. idk wut w life .. thought knew noe ..',3
+'quote week one perfect . every makes mistakes  wise people learn other.  ',2
+'love justin bieber ! love',5
+'.. yii ..',2
+'aww need save  ear  tube job instead boob job ! lol ear hurting lil along throat .. wan na lose voice ! !',6
+zzzzzzzzzzzzzzzzzzzzz,1
+'bow , break , shut world away . fall , fade , take breath away',3
+'bought trumpet .. ! though marines barracks might happy .. laughing wait come ! yay ! perhaps go buy music books ..',4
+'stoked best friend comes home tomorrow ! ! ! ! !',7.5
+' life got much better past months .. ask .. soo greatful ',2
+'yall need shut mouths cause fixing slap shit outta  ..',4.5
+'doppelgnger week ! change profile picture someone famous told look like .',3.5
+'goes home monday . mountains fun .',1.5
+'single looking , jeez , dude get attraction',3
+tireeeeeeedddddd,2
+'getting teeth pulled bad . waiting feel mouth .',1.5
+'anyone feeling like killing .. ? ?',4
+'bad night . get home  .. sometimes wish ..',2.5
+'pooped ! ! ! ! tomorrow another full day ..',6
+'hate phone serious passion wish would blow sometimes .',3.5
+'fuck fuck fuck',3.5
+'middle pickwick kayak reading book . thanksgiving rulez',3
+' super terimakasih untuk semuanya atas doanya  ucapannya . zoom zoom day everyone ! laughing laughing',5
+'raging homosexual hacked brandons facebook ',3.5
+'internal monday frown , sad , angry pouting',3.5
+'received lovely surprise card ! ! happy happieeeeee ! ! cheeky , playful',7
+'started facebook .. entirely sure .',2
+'tonight . rave . happy ',3.5
+'met girl , fell love , glad met girl , fell love , glad think time , true ? nothing world stop worryin bout girl',3
+'well , since ca sleep , might well clean house . already awake  hours , seriously , fuck .. maybe becuase birthday , woohoo ..  , tell another day , thats really thinking ..',3.5
+'stayin onto somthn , always talkin indefinite numb e cheeky , playful erience stare space thinkng stuff wished ,  gave returns past time nothin .',3
+hi,1.5
+'everyone wo using cafeworld anymore send gifts please ! ! keep profile case need neighbors happy',4.5
+'says likes feeling sexy',2
+'addicted facebook games',1.5
+'question hard find someone trust believe also believes trust',2.5
+'studying cleaning packing long time still',1.5
+'last exam tomorrow  math ',1
+'king move , subordinates follow',1.5
+'totally invites mafia ! get asap .',3.5
+'wondering anything interresting tele tonight ? skeptical , annoyed , undecided , uneasy hesitant xxxxxx',3
+'thanks friends buat ucapan happy birthdaynya traktirannya nyusul ya ha',2.5
+'may better day get move new house sex crazed people buying going get little vist happy',3.5
+'could really use miracle right',2.5
+'fourth year eggs year  first year teaching year  chem hard work  feel satisfied though .',1.5
+'ugh .. second shift schedule ..',2.5
+'voice soundtrack summer know unlike ? always thunder , said eyes brightest colors wan na ever love another always thunder bring rain bring thunder',2
+'thinks person wait high school show true colors',2.5
+'today , tomorrow , friday , saturday , move day ! ! !',5.5
+'love confusing .. guy tells gorgeous turns lights , ',3
+'working hard giv new family good life',1.5
+'ok god turn faucet',2.5
+'think last week really changed perspective things .. never go sleep angry ever .. always say love b every departure .. tried angry brother hung phone died ni',3
+'struggles past , make stronger future .. ! ! ! !',6
+'sure want hear guys might come lol , go ! read',4.5
+'mehh . fuck cw . fml .',4
+'juss finished cleanin washing ridiculously messy car ! nails turned black hahaha . gon na get ready go eat buddy happy',4.5
+'ready spring . cold weather dark evenings kept rusting house . ca wait canoeing , fishing , camping , outdoor sports ..',3
+'transit dubai ..  hours home ! ! ! ! thanks well wishers ! surprise ',6.5
+' today',1
+'profile pic rocks',1
+'everybody sing ! ! ! ! ! ! ! ! ! !',7.5
+'exausted .. people , dogs , crabby cat , kid needs spare set keys .. need vacation !',4
+'dear god , find someone hard poop shoot',3
+' happy',2.5
+'tear cry ever split . love',2.5
+'fckin bored frown , sad , angry pouting frown , sad , angry pouting',3
+'fb running slow today ? ? ?',4.5
+'yeah , friday ! well anyway . happy',4.5
+'ashamed enjoying conan barbarian comic books ? cheesy top sword sorcery yet much fun.  ',2
+'birthday sucked ! ! !',6.5
+'babysitting .. laughs',2.5
+'last minute packing !',4.5
+'relaxing home .. maybe wine !',4
+'thank everyone birthday wishes happy',3.5
+'whenever face difficulties , confident level increasing responsibilities growing ! !',5
+'mean brag , make mean raspberry lemonade .',2
+'bombed math final  c  write sad face emote . frown , sad , angry pouting',2
+'ffxiii full love . love',2
+'happy independence day ..',2.5
+'best birthday everrrr .   could happier . braces tomorrow . week great .',3.5
+'slightly annoyed people keep hitting oddshaped pillows .',3
+'really hate screwing somedays darn good frown , sad , angry pouting',3
+'thoughts maketh world .',1
+'yay presentation day got ta morrow dat suxs bad',1.5
+'today ignorelan cheeky , playful nothing . best day .',2.5
+'tired writing paper paper . makes wonder masters program .',2.5
+'new tiesto album really good !',5.5
+'one dies virgin coz lyf badly fukssss frown , sad , angry pouting kiss',4
+'thanks everyone wished happy birthday . wills plays mys guitars extras fast .',2.5
+'reading howls moving castle ! ! must get family watch movie one day !',6
+'know , getting worse , come barnes nobles seems like peep show everytime come . really sick stuff shelves . mixture vampires , nudity , witchcraft .. sheesh .',4
+'thanks everyone birthday wishes ! thanks good time !',5.5
+'american classmate learning tagalog told taxi driver , manong , pwede kant  ?  wanted say driver drop corner ',1.5
+'wait enough see son home ..',3
+'watching  days summer ..',2
+'little sister sitting ball rocking back forth ..',2
+'also , appreciate universe complimenting taste collaborators , one ex leaves directly starts dating someone show , think going lose . two row !',4
+'know best friend baby anxious since morning wait longer baby port ! !',5.5
+'looking bassist , drummer possibly guitarist band , anyone want ? laughing',4
+'goin house hunting today .',1
+'use blood lubricant rape lifeless body',1.5
+'thanks everyone birthday wishes whatever call  ',3.5
+'jonsi concert october . excited long time .',3.5
+'back war two weeks frown , sad , angry pouting',3
+'turn take ? god knows right one , pray hear clearly make right one . friends family pray boy .',5
+'wonderful husband , fianc bf works hard provide would anything family , repost status give honest well behaved men recognition deserve . great men far , one !',3.5
+'afraid act upon dreams know dreams keys success doorway greatness ..',3
+'confided someone tears happiness lmao ! one happiest moments happy life ! tears happiness',4.5
+'whoo finally got meet leah .. adorable !',5.5
+'think ill hibenate winty ..',1.5
+'straight face happy laughing',4
+'england !',6
+'one whoz going light day ! ! ! ! ! ! ! ! ! ! ! !',9
+'finally , home last !',5.5
+'another beautiful day thanks god snow .. cool never season',3
+'thank guys , appreciate happy birthdays  ',2
+'birthday saturday great ! finally  ! !',6.5
+'monday na ulit work work na ulit .. may god give strength love',2.5
+..,2
+'thanks every one wished happy birthday appreciate love . feel old  hahahah jkjk whatever lol . well ill talk soon love guys much thanks',2.5
+'among us blessed power save loved another . powerless use blessing love .',3
+'brought real coffee nearly one every slice coffee shop today ! ! yum yum yum  yum yum !  share',5.5
+'bored ..',2
+'gargoyle landed',1.5
+'.. thank guys .. ..',2.5
+'still need help horse stable ! ! need  nail  horseshoes . thanks ! ! !',6
+'facebook friends  help ! ! lack funny emails , add email list please ! !',6.5
+'football v.s . moniteau tommorow',1
+'love ! thanks making best birthday ever guys special thanks baby crystal making possible . wan na toast best friends family person could ask ! love , good night !',8
+'incredibly tired excited cause get go home soon ! ! ! granted , two weeks cares !',6.5
+'one wished happy birthday , thank kind coments fond wishes .',1.5
+'idaho chillin fam weekend . love ya !  ninja material ! .. even duck things takes extra second squezz small places cheeky , playful',5
+'hmmm .. happy',3
+'happy someone , although hearts crying loud . told meself happen sooner later . stupid f    .. followed heart ! get ignoring truth . say truth set free. say also beat heck yo  ass . happy .. hurting . still .. still . ! tnx  ',5.5
+'least  dead israeli forces attack gaza aid ahips ! ! ! ! ! ! ! hhhhhhate israil',8
+'livin life',1.5
+'heart get lucky sometimes love',2.5
+'scooby doo would better show guns',1.5
+'birthday finally  !',7.5
+'hi everybody ! saying hi , real quick . bye !',4.5
+'life one big party still young gon na back done .. shaggy',2.5
+'counting days .. second second ..',2
+'back semenyih ! !',6
+'thanks everyone friendship birthday wishes !',4.5
+' finally ! ! ! ! lol',7
+'garden planting new seeds .. sad see old ones die .. beauties new growth overwelm saddness .. time depend',3
+'dam ganna go back school',2.5
+'watchin ferd dance lol luuuvvvvvv show',3.5
+'thanks everybody ! ! ! ! ! ! ! ! ! ! ! !',6.5
+'got family pics done today got wife new phone took droid good day today',1.5
+'back class ..',2
+'really digging devin moore   .. bein productive nite colts .. wonder real game',2
+'subway w bff  person . love  .. oh  unfortuantely .',2.5
+'believes god , repost believe . please ignore , tested . says bible , deny front everyone',3
+'christmas tree time',3
+'thanks bday wishes .. great day fabulous dinner .',2.5
+'guess people . bed .. wo moving till monday',2.5
+'hmmmmm ..',1.5
+'call nestle crunch hotline , asked want continue english spanish , wait quietly  seconds smile . promise ! keep going press . listen options .. press . give away comment !',3
+'sick dodgers  crap . get hopes every year ? garbage . manny garbage . pitching garbage . fun watch two months .',3
+'happy camp . thanks birthday wishes ! ! !',6
+'happy grandparents day best ama ampa ! love',4.5
+'two days till strike work . ready .',2
+'absolutely hating homework fact left everything last minute .. nice vacations though',3
+'gettin tattoo today excited happy',4.5
+'moving forest lake ! ! yeah',6.5
+'crap , totally forgotten ta coordinate geog tmr first period ..',3
+'thinkin bout everything',1.5
+'finally got job ! ! woohoo ! happy happy',7
+'asked pervert whether ugly , virgin , singaporean really fourteen years old . would like announce saw auditionsea  anywhere , actually  , would kick butt . joking .',3.5
+'rude tube !',5
+'tonight improv .',1
+'well , hospital . poor baby two spinal taps . still know whats wrong ..',2.5
+'asking .. keep secret never say ?',2.5
+'something mind ..',2.5
+'playin  battlefield bad company  .. awesome game',2.5
+'thanks everbody wished happy birthday today !   lucky enough avoid ms. fry impromptu song cheeky , playful',5
+'work f.b . see later .',1.5
+'realized midnight day , ..',1.5
+'wow friday .. hope everone good weekend .. safe .. happy',3
+'gym time .. need fix mohawk .. hair sides getting little long .. find electric razor .',2
+'ughh , crazy .. need starbucks .. stat !',5
+'broncos getting raped . raiders ?',3
+' hours work friday .. love tomarrow hahaa',3
+'smile wan na go play !',5.5
+'slowly going loony',1.5
+'wants thank everyone wished happy bday .. ones txtd .. ones even thought today .. love ya !',4
+'family wax dayy',1.5
+'ive finally realized babies  monster  mom someone even want around become stranger beginning hate',2
+'hello laughing',4
+'birthdayyy ! ! love',7.5
+'life better bein  pirate .',1.5
+'bottomless pit ! ca spend rest americas money fast enough ! even knowing broke . ?',4.5
+'tired .',1.5
+'prayer alert ! ! fb friend daughter audrin king . hold family prayer today .  year old daughter diagnosed stage  cancer . see post , even know , god knows .. please post profile  hour say prayer little girl god bless !  could mom repost ?  pray , please ! ! ! !',6.5
+'thanks remembering birthday !  ',5.5
+'hangover ! ! ! ! ! !',7.5
+'thinking plans sunday ..',2
+'know  perfect  close scares .. happy',2.5
+'check vid happy',1.5
+'thanks everone wishing happy bday . well going go weekend let lose . bad day work',2.5
+'sisters keeper .',1
+'make understand mean anything .',1.5
+'two may talk together roof many years , yet never really meet  two others first speech old friends',1.5
+'time new scientist chips b head manc think',1.5
+'already tired . quite strenuous day',2.5
+'really great summer far ive beach week feels good sitting computer ! ! ! ! ! ! thank goooooodddddd . would phones computers ? ? ? ? would home sitting . cou',8
+'getting ready day boys ! astro boy pizza happy',5
+'e cheeky , playful eriencing moment read pages idea read . frown , sad , angry pouting',2
+'raiders extend richard seymour yrsmil ! franchise zach miller ! yes ! ! ! ! ! ! ! ! ! ! resign nnamdi ! ! ! ! ! ! !',8.5
+'talking zac efron banana phone last  minutes . fighting .. . tool . miss days imaginary boyfriend ping mulan .',1.5
+'hey guys remember sunday basket well back croisee form   japs  ! ! !   ',6.5
+'stupid computer still fixed . text  hopefully working weekend .',1.5
+' home .. chillin .. needed come home ..',2.5
+'predators .',3
+'fire brimstone baby , lets go outside , whatcha know bout ways underside .. ? ? ? love',3.5
+'know love , ..',2.5
+'mexican food good . mmm , chimichanga .',2
+'modern warfare  , soon !',5
+'fun time corn maze tonight , glad spent sat . night time .',1.5
+'getting sick e cheeky , playful laining hair , summer , fear driving . bright side , love life prodded two hours',3
+'good night , hate , especially .',3.5
+'confront dark parts , work banish illumination forgiveness . willingness wrestle demons cause angels sing . use pain fuel , reminder strength .',1.5
+'remember vote . ',2
+'lord conquer enemies attack . attack one direction , scatter seven ! deuteronomy ',2.5
+'trying best finish book send publisher . wish luck .',1.5
+'mi wrd ! ! ! ! sooooo tired jobshadowin ! da kfm studio kickass ! luv da grafitti wall',6
+'every obsticle making possible possible even winning ilogical losers still far optional',1.5
+'thanks everyone birthday wishes',2
+', specify , alone . travel . absorbed self pity , forgot mention thrilled either . , luggage found , way going take nice long bath drown sorrows ! ooh good smelling shampoo stuff ! psyched !',5
+'firstlove published .. ! pki abangan b surprised ksie web .. hope like !',4.5
+'great day today . found raise took effect fridays paycheck . check pool   . great cake class made wonderful cake . think getting hang new job work . shabby ! oh josh burning wood dring beer friday night , said whoever wants stop welcome bring drinkage let know need directions !',4
+'glad week ! ca wait till sunday !',5.5
+'love law ! ! !',8.5
+'ran bunch . fun',2
+'rest peace grannie , forever loved missed .',1.5
+'washing machine laughing ? taking piss underpants .',2
+'enjoyed cwg opening ceremony  colourful diverse . mercifully showcasing india culture without bollywood !',4.5
+'like hips',1
+'presence friend coversation  ',1
+'  teens would cry saw robert patterson  edward cullen twilight  standing top sky scraper jump . one   would sit ',2
+'god man would lie . words must come pass lifes . well halleluya ! ! !',8.5
+'mention much hate homework home',2.5
+'hawkey team ! ! ! anyone want watch game , please contact .i join ! ! !',6.5
+'mmmm cinnabon cereal ! ! !',6.5
+'going house  c boy striped pajamas . coming !',4.5
+'little worried big bear keep trying call able reach . currently tracking weather worried mind .',4
+' cent beer happy hour gyukaku shit ,',3.5
+'wish would show cheerleaders plays ..',2.5
+'burnt rice . sipsie liked though !',3.5
+'ah love steve nash !',4.5
+'hope girl time ! ! ! !',7
+'angle god , guardian dear , god love commits , ever day side , light guard , rule guide . amen .',1
+'getting painful e cheeky , playful erience much like crossiiing monkey bars . let go point order move forward. happy  taraaaaayyy !   ',6
+'sure like facebook',1.5
+'go run beautiful day working tiny babies tonight happy',2
+'okay , dog bugging . must bored hell playing fetch wit shitty diaper . lmao happened stick ? !',5.5
+'greek food today , great',1.5
+'watching husband zoom pass window small pink quad bike',2
+'actually getting engineering ..',1
+'hey got accepted edinboro .. awwssoommee ! ! ! ! excited',7
+'excited get away weekend , , , .',2.5
+'annoyed stupid neighbors practicing piano   oclock ! ! ! go  sleep freaks !',6
+'band put demos songs really exited . ony thing guitar like  hours school  hours hw get go work yay !',5
+'damn sad cows wo go away ! ! !',7
+'nondairy creamer flammable .',1
+'game  clock tommorow  brothers game frown , sad , angry pouting',2.5
+'starting get obsessed heavy metal concerts .',1.5
+'blast flirty girl fitness !',5
+'decided new friend . think wants kill ! !',6
+'well yay stupid  broke internet skeptical , annoyed , undecided , uneasy hesitant',3
+'knows done well terrify people husband page .. sleep well tonight happy',3
+'thankful birthday love .  pretty good . agreat bday !',4.5
+'well , today pretty crappy day school . shared laughs best friend . laughing',3.5
+'wondering  movies hire watch first . new daughter  thriller   kevin costner . crazy heart  drama   jeff bridges  maggie gyllenhaal . bounty hunter  action   jennifer aniston  gerard butler . cirque du freak  vamipire assistant  family   willem dafoe  salma hayek',1
+'done everyones games ! ! ! ! ! ! ! !',9
+'feel invisibe . ugh fml !',5.5
+'usual day night',1.5
+'great day family today !',4.5
+'rain  rainbow .',1
+'christ bike .. cold go away ? ! ? !',6.5
+'addicted dragon age .',1
+'july, .. gayism legalised hc .. intended  b bday present frm hc .. gosh .. took sooo long  realize dis .. cheeky , playful',3
+'omg , singing along taylor swift . wrong ? ! ? !',7.5
+'college night tonight  cabanas ! !   kamikazes   well ! ! plus live performances schofield ! ! let get crazy ! !',7
+'e cheeky , playful erience simply name give mistakes .',1.5
+'wishes going north carolina gorgeous sisters .',1.5
+'tengen toppa gurren lagann .. make day better',1.5
+'klbj radio austin took time busy schedule try help find donor using facebook radio . think thats bad ass . thanks much , .',3
+'lonely september',1
+'fun ..',2
+'best consideration child . couple seperated , heshe would saddened fathermother might around much needed . bad child . times miscarriages reported , couples married . bad , god purpose life , could way telling reconsider choices .',2.5
+'haha , sure gunna great year ! gunna funn ! ! ! !',7.5
+'hate getting stomach flu would rather severe cold week',1.5
+thank,1
+'ooo ! ooo ! ooo ! ooo ! come !',7
+'thanks everyone comments great day today , even though go work lol',3
+'hates lakers . hates .',2.5
+'full glass empty heart , search something occupy mind',1.5
+'tupac might gone bah always alive everyone der feelins fa g ! rest case , say still remains true soldier der da ghetto heaven',3
+'boring life back frown , sad , angry pouting ..',2.5
+'ok big mi . one week since smoked cig . happy . plus walked  miles today . got ta walk  tonite',3
+'okey dokey , time scan newspaper mine ..',2
+'sometimes people put walls',1
+'happy thanksgiving fb friends family !',5
+'course evaluations medsoc came question instructor maintained positive environment class  nice timing video  ',1.5
+'nevr criticize bf faults , rembr may hv litle imperfections dat stoped frm geting beter gf ..',1.5
+'wan na curl ball sleep hope wake ill magically feel hundred percent',1.5
+'flying back bangkok shoot ..',1
+'happy haha thank youss',3.5
+'merry christmas ! ! !',6
+'loves favorite roomy',1.5
+'broke leg , oops wo want ! ! ! ! ! ! ! ! ! !',8.5
+'anyone know secret happiness peace ? sure hell .',2.5
+'beautiful tuesday morning .. duty .. weeee laughing',4
+'facebook trick  press , , , , left , right , left , right , b , , enter key , left click magic crcles appear . way get rid log refresh page .. work ! put status works .   freaked bad . surprise',4.5
+'severe anger',2.5
+'bed time nite world',1
+'got laid need find work , new year',6.5
+'thanx everyone , rite , ,',1.5
+'thanks happy birthdays ! ! ! ! ! ! ! ! ! happy',8
+'go wv !',5.5
+'kind tutorial facebook ? , someone please send grandma ? needs little extra help .  kidding , gmachris keep helping . ',3
+'ever learn something really wish , nvm',3
+'.you think people people people look think like .',2.5
+'sick ! ! ! ! hate ! ! ! ! !',8.5
+'thanks birthday wishes yall ! ! .. srry alil late thank !',6.5
+'bmx starts next week .',1
+'finally friday ! ! ! ! ! ! !',7.5
+'want snow birthday gift today .. wanted pony ..',6
+'kind bees make milk ..',1.5
+'homework sux ! ! ! ! teachers tourcher us way ? ! ? ! ? ! ? ! ? ! ? !',8.5
+'god things possible .. yet greatest treasure .. turn away .. turn away gods love .. say purpose god accomplish .. turn away savior .. make like good .. peaceful .. world hated hate us christains .. speak self calls name',2.5
+'need job ! ! ! ! anyone know anything ?',7
+'happy birthday taylor . love .',1.5
+'zzz .. soooooo tired ..  camps  week .. think need workout liao ..',3
+'really need house cleaner disaster ! ! ! ! ! ! ! ! !',8
+'falling asleep country music love good night !',4
+selfish,1
+'night see combichrist . fuck loved show . absolutely need pass , long work week  six hour concert  tired shit',5.5
+'manu sailing smoothly happy',3
+'hot , scared , lil sweaty . good day .',1.5
+'saturdaywork , mani pedi , long bike ride   , bday pary  , bday party . much fun . sundaylaundry , cleaning , colts game , bike ride . fun busy weekend .',1.5
+'stronger hard times , wiser mistakes , happier sad e cheeky , playful eriences , smarter moments confusion',1.5
+'happy sad time .. di kaya nababaliw na ko ? ',2.5
+'hate want nothing someone keep coming back matter ? drives crazy ! ! ever get hint .',6
+'hi everyone nothing say say hi everyone',2
+'wondering ever get job .. seriously .',2
+'got soul sleep ! laughing   ',4.5
+'tired saying look like asian lol ',4
+'got home , fun time running today',1.5
+'success without positive attitude called luck , success positive attitude called achievement need positive attitude .',2
+'died today , would taking care arrangements would paying .. mind . due new profession , currently welcoming death jokes  okay , maybe , would rather',1.5
+'bored many going start science project',1
+'great time wedding ! yankees  , big game tonight nervous hell ! wan na spank damn rally monkey tonight !',5.5
+'ca wait thanksgiving also see daughter thinks lights decorations christmas ! ! also  months old ! !',6
+'sigh ..',1.5
+'drunk lmao laughing happy almost paddy day cali .. like  minutes till cheeky , playful',4
+'.. chocolate peanutbutter ice cream , yes please ! ! ..',5
+'man long time since posted sum hear happy got two mo weeks welcum baby gurl dis world ready spongebob voice lol',2.5
+'begin recognition beings cherish happiness want suffering . becomes morally wrong pragmatically unwise pursue one happiness oblivious feelings aspirations others surround us members human family . wiser course think others pursuing happiness .',1.5
+'yeah happy totally . tired lonely .. tired',2.5
+'cooked heat',2
+'finally .  long days',2.5
+'wow , . thank everyone happy bday congrates .   ',2.5
+'love music video ! ! !',6.5
+'work today , lucky happy',1.5
+'going play football little bit !',2.5
+'bama going kick ass',3
+'today anniversary james proposing beach near san diego .. happy happy asked ! ! love',5
+'make heart skip beats , make nervous see , make feel alive , still get butterflies kiss love . love happy',2.5
+'day  menu  sausage , egg cheese biscuit , lunch  bacon cheese burger , snack  hashbrowns cheese .. day  idk ! starting get bubble guts .. stomach strange stuff .. lol',3
+sleepy,1
+'saw chinese dude get metro chinese food hand .. go make delivery lmao .. hurry dwl',2
+'loving simple , letting someone else love hard .',1.5
+' final ,  go !',4.5
+' days indiana happy',2
+'back home , back reality ..',1.5
+'fine thin line wrong right .',1.5
+'happy thanksgiving',1.5
+'issuse lmao',2.5
+remind,1
+'smells delicious outside .. like breakfast ..',1.5
+'md sis .. big cockatoo hand .. typing .. great day cousin .. wish never go back work .. dreams .. dreams .. oh got .. yippe !',4
+'drama .. drama .. drama .. done !',5.5
+'ughhh , wish could stop coughing already ! sick horrribllleee . watch television falll asleeepp . happy love',3.5
+'ind vs srilanka  thrilling match progress .. india need  ..  wickets hand ..',2.5
+'needs lobotomy !',5
+'gps less day already broke . good thing garmin nice going send brand new one .',1.5
+'ever feel like lot people life understand ?',2
+'forgotten much fun kids  especially pe ! exhausted ! !',6
+done,4.5
+'laugh fuck upset first place even shocked wow happy happy today ordinary day',3
+'sons week ! beautiful son sons love describe , copy paste status little , hold heart lifetime',4
+'today boring day entire summer hands . skeptical , annoyed , undecided , uneasy hesitant',3
+hi,1
+homework,1
+'case mondays .  toooo fin early .',3
+'happy happy happy ! ! ! !',7
+'time go shovel snow .',1.5
+', hrs still ca sleep frown , sad , angry pouting insomnia sucks .',2.5
+'wow afc sucks probowl sucks year',5
+'fun india !',4.5
+'relationships like glass . sometimes better leave broken try hurt putting back together .. happy',2.5
+'gone !   ',4.5
+'love farmville pero nakakapagod din ang mgtnim mghrvest .. hehehe',2.5
+'partey ! ! ! love',6.5
+'uhhh ! homework ! killing .',5
+'thanks much birthday wishes everyone ! !',5.5
+'hope get voice back saturday .',1.5
+'perfectly imperfect , beautiful flaws , sure insecurities , absolute chaos .. beautiful disaster',2.5
+'course ! brain washed !',5
+'school boring early want spring break',1.5
+'miss  hand new spelling lists   lose spelling lists copies bad boys. class  whispers head bobbing     bad boys ',1.5
+'much like peach pie peach cheesecake right . somebody make happen plz .',1.5
+'really wanted chicken brown beans .',1.5
+'common tests vvverrrrrrrr laughing dddddd',5.5
+'almost feeling better ! ! damit hurry already cold ! ! ! drink weekend ! !',6
+'examining oral cavity anatomy tomorrow  cutting head half  . bring !',4
+'thinking going blonde .. hmm needs bloody job',2
+'eating famz ..',1.5
+'thanks birthday wishes . great one .',1.5
+'gon na clean car today .. maybe take trade later week .. maybe',1
+'brawl two excuses brother uses loses even trying   got lucky  .  ',1.5
+'hrs  go ',1
+'think falling love mauritius .. cultural diversity ..',2
+'thanks birthday messages . pretty bummed closer  . shall try rid thought drinking body weight frozen margeritas .. thats lot margaritas !',4
+'looking forward great weather  waves wednesday',1.5
+'got nothin  , got nothin  lose .',1.5
+'ppl continue complain situations created .. chose manwoman chose children deal consequences',2.5
+'checking salad messages',1
+'ca sleep , .',1
+' ,   ',2.5
+'    whole universe ! happy',4.5
+'southern hospitality ! ai nothing like ! except substitutes ! live love !',8.5
+'great .. lol . learned stuff supposed guess would cram right . oh well . always next year .. grade  .',3
+'hey guys , got bak first day skiin',2
+'would love go back bed .',1
+'gon na stick plans , nothing body gon na keep away thats ! !',5.5
+'got phone set  facebook yay ! nn',4.5
+'huge news guys ! ! ! unfreakinbelievable .. twins ! ! ! hell come ? ! friends ! help ! soooool , jeniang ! ! ! help ! ! !',8
+'happy july ! see girls tomorrow ! xo',5.5
+'slipknot mood  surprise',3
+'watched new harry potter movie tonight . pretty cool , waiting next one frown , sad , angry pouting good news previews showed really awesome movies coming . got green latern , green hornet , tron look friggin awesome .',3
+'.. happy birthday , adam ! ! ! ha ha ha , fsu  p ..',7.5
+'spent day beach  ',3
+'furnace blink . . . hooray maybe get furnace maintenance christmas .',3.5
+'know make scrambled egg microwave ? bachelor tip   .',2
+'know ? first post see mlia harry potter . mlia .',1
+'.. chase house yard',2
+'answer lies within , confusion ? blinded , deaf , ignorant inner voice ?',2.5
+'add xbox live !',5
+'thank wished happy birthday .. definatly good one jump start year right ! hope everyone bangin  new year god bless',4
+'omelette sunday success !',4.5
+'really found difficult sometimes person god wants become . shame people supportive ones try best tear . changed make people feel better never . always remember dealing god , obedience better sacrifice ! ! !   ',6.5
+'wind evolution blowing hard.man must adapt inevitable change adjust unnecessary desires',2.5
+hi,1
+'played till left , nobody left hear complaining  gone . hearing damn echoes , gone alone hearin damn echoes . disgusted trust , ill trust one . went flo , found floor .',1.5
+'mother earth .. black symphony album epic .. x.x german tutorial food festival ? blech ..  dies inside ',3
+' work laughing',3
+'offically hate brother .. spartacus blood sand . incrediable',2
+'got learners permit thursday . ha forgot post x  totally sweet . wait mom puts insurence drive around tulsa !',4.5
+'life never better ! ! ! ! ! ! !',8.5
+'lost damn phone ..',3
+'easy  obtain , hard  maintain , , , , , smh',2.5
+'jlweagfnakwelakhyjihjiyowhjjyhujyjioagkdavbnjhn hq everyone obsessed much wood woodchuck could chuck ?  color ',5
+'high time added ppl want , friend list .',4
+'motogp rest peace tomizawa  .. frown , sad , angry pouting',2.5
+'alright long day school ! ! time run jum hurdle climb ! ! goddamn love parkour ! !',7.5
+'found worst news ever whatever',2
+'glad see everyone finding families.  ',1.5
+'love gigantic unspoken.love blind blind',4.5
+'supergirl , supergirls cry .. ? supergirl ? ?',3
+'interesting glee evening !',5
+'fam  friends , thank birthday shout outs ! ! ! ! luv ya ! ! ! ! !',8.5
+'band played waltzing matilda ..',1.5
+'want run , run know , , run ..',1.5
+'help ! ! trapped conference call never end ! rounding hour  .',4.5
+'new music',1
+'go movie wit charolatte lol',2
+'third crossroad must difficult .. hold memories let go start anew ?',1.5
+'bad miss day . reason .. nothing triggered .. kids driving crazy . miss laugh ',2
+'good bye grandma .. hope reach better place .. love .. crying',2.5
+'want thank wonderful friends family birthday wishes . yall best ! ! ! ! !',6.5
+misses,1.5
+'grr , school starts monday .. definitely looking forward .',3
+'want  thank everyone  wishingme happy bday .. luv guys',2.5
+'true friend care broke , house mess , past , family filled crazies .. love . true friend go long periods time without speaking never question friendship .',2.5
+'willing admit may always right',1.5
+'need insects bye yeat',1
+'god game playing well , must get acquainted lonely .. one holy',2.5
+'ohyerh laughing',5
+'said wouldt easy .. one told would hard ..',2
+'past two days door shop frozen closed . got unstuck . tho lots upcoming show , looking forward working freezing frikin cold ! !',5.5
+'really looking forward children music compition mauldin . excited . kids working hard great job . preformance going exstreme . wait see .',2.5
+'peace picture minds eye world without conflict , world without war . picture us attacking , would never e cheeky , playful ect ! ',3.5
+'definitely absolutely doubting certainty',1.5
+'interesting video man butter fingers .',1
+'many blessings hot monday !',4.5
+'nursery practice whoot .',1.5
+'need get way put .. easier said done skeptical , annoyed , undecided , uneasy hesitant',2.5
+'cmon arsenal ! ! never .. show wat made ..',5
+'hate way smile . plastic ! stupid yet pathetic . char !',6
+'dare take chances. , ',3
+'ah nice back sheptown  back grind tomorrow . also seen sherlock holmes awesome ! ! ! !',7
+thank,1
+'day could possibly get worse ! skeptical , annoyed , undecided , uneasy hesitant',4.5
+' , man , iv toltal  hours , way high way tierd , talk meh , ..',1.5
+'real pirate wenches suck cck like gunna cum rum !',5
+'ready delicious christmas cookies la lexi !',4.5
+'cuddling lukas bed fluffly ! ! ! ..',6
+'love life',4
+'well final decision ..   judge got pissed told us hed enough ..',3.5
+'going biltmore tomorrow ! yeah !',5.5
+'back way things suppose',1.5
+'well orlando come good tomorrow starts new fun filled week work',1.5
+'excited see grown latest adam sandler flick dvd tomorow !',5.5
+'ca find wat lookin',1.5
+'want hair grow faster !',4
+'bye bye wisdom teeth ! !',5
+'hey yall . going tennis camp tommorow .',2
+'less month go .. yahoo ! ! !',6.5
+'definatly go see inception ya havent',1.5
+'sitting next , watching smile , talk , laugh , kiss , hug makes feels stronger warmth . half life belongs . finally , meet .. long missing view .. ready take next level .. may take lots consequences sake love trying , try . drug , personal brand heroin .',2.5
+'adpoted solider james asked program mom told move room ! lets say james like idea ..',3
+'netflix movies arrived today  fool gold   definitely ',1
+' watching csi miami  fav show ',4.5
+hate,2
+'thanks wonderful birthday wishes ! great day precious gift ever ! !',6.5
+'going get husband going get husband ! ! ! ! love fridays sure hate sunday nights frown , sad , angry pouting',7.5
+'good morning fb great day !',6.5
+'seem escape neonatal vehicle',1.5
+'thank birthday wishes ! happy',5
+crying,2.5
+'insomnia .. tired sleep .. head aches .. feel beat ..',1.5
+'beautiful night outside . clear sky big , bright full moon amazing warm windy . ca remember last time february !',3.5
+'watchin catch predator .. sick people world',2
+'last , sun beginning set later .  yesterday   today .',1.5
+'love life',1
+'made observation  senior person , smartly dressed day , interestingly , casually dressed evening .',1.5
+'fake       perfect     perky  wink smirk  wink smirk cold       even grandma .. big     small  .   .  save ! repost breast cancer awareness !',4
+'need thnk frown , sad , angry pouting',2.5
+'tell whenever someone enters server , even minecraft looking software . lag spike slows music .',1.5
+'holiday world going beast',2
+'aloud touch cats kittens yet crying',3
+'wooo passed road test !',6
+'got back livesablaze',1
+'thanks birthday wishes',1.5
+'today national coming day . coming lesbian , gay , bisexual transgender equality  five states plus dc recognize love , gender , matters marriage . donate status join clicking ',2
+'great birthday friends lots fun wish never would ended .',1.5
+'backpack got stolen , pe teacha hates . yeaa  isnt going good ',2
+'got spirt , yes , got spirt bout .. think vomit next time hear .',2.5
+'cut candys hair lol .. like  cm ! ! ! !',7
+'last night sweetheart kaitlyn fun lol . best girl world , ',2.5
+'gun owner believe right keep bear arms . one facebooker challenged gun owners put wall . supreme court united states affirmed right keep bear arms fundamental right individual . believe amendment afraid show , repost .    aim well , live free',2.5
+'yummy brisket birthday alll right',2.5
+'looking job right .',1
+'quite exhausted many things wishes could see hug  soon hopefully  get away country well couple drinks ! ! !',6
+'get nothin done said today .. still got jr ! ! ! ! ! ..  bullshit ! ! ! ! !  least different marrow ! ! ! !  hope ! ! ! ! ! ',8
+'back ! moment soon',4.5
+'senior night ! ! ! ! ',7
+'catch ! want trade bullbasaur weezing ? .. well answer foo .',4
+'yey got miss swim practice afternoon doctors appointment ! ! ! happy',5
+'really enjoyed district  plaza cinema cafe',2
+'ok , shout receny friend mine left everything new help sick sister family , .. sister died yesterday . warriors want take swords twould good battle . want fathers pressence felt know times difficult choices three children spouse',2.5
+'jan.  years married ! ! ! hubby gets perfect  giving flowers , imported chocolate , stuffed animal .  ',5.5
+'made color guard gmc ! super excited ! lol',6
+'takes courage honesty see really , way become kind people want .',2
+'want girlfriend right cuddle',1
+'keeping pretty good , man got lot happy birthdays thank .. nice noticed guys',2.5
+'love night time comes . love .',1.5
+'wants go chow yang pasar mlm tonite fetch one leh ? ?',3.5
+' , itss since painted nails black ',2.5
+'wtf ! ? dog side let  howls sounded like air raid siren .. bit lower frequency .. freaking eerie sounding ..',5.5
+'.. boom goes dynamite .',2
+'noob ! take shit ! ! frown , sad , angry pouting',5.5
+'going build igloo snowman happy hahaha yes still children heart !',4.5
+'great weekend hope everyone else well happy',2.5
+'happy , got new friends , lifes getting smoother .',1.5
+'english coursework frown , sad , angry pouting',2
+'ready walk work , always much happier people cars .. aggressive happy',3
+'despise somebody makes something make look bad ?',1.5
+'finally beat chris monopoly .. took  years ! however lost mel ! ! ! argh ! ! !',7.5
+yes,1
+'split toenail open flip turn hurts ! frown , sad , angry pouting',5
+'rain rain go away',4.5
+'working sunday nite ? ? ? frown , sad , angry pouting',4
+'trust takes year build seconds destroy',1.5
+'thank wonderful bday wishes . absolutely wonderful day great dinner alone hubby really enjoyed days week . could go back work day week real quick ! wishing wonderful friends family happy safe christmas . congrats new little love shares birthday ,  . ca wait meet ! ! xoxo',5
+'snow cold weather great .. want go skool summer',3
+'guess wt ? changed perofile picture ! .. . whoo ! big shocker dd c dat  comin  . bt mabe picture better kristen photos .. atleast think .',4.5
+'right wish someone dream little dream .',1.5
+'thanks love guys . awesome birthday .  years wise ! love yall ! ! ! !',6.5
+'love never dies natural death . dies know replenish source . dies blindness errors betrayals . dies illness wounds , dies weariness',2
+'run fork car , coz ninja ! ! lol',5
+'nmcmll hard stoof ..',2.5
+'man knew drawing could fun .. tireing time life good though',2.5
+'.. feel emo inside stirring .. must .. resist .. emo urges ..',3.5
+'embark journey revenge , dig two graves .',1.5
+'according urbandictionary.com   . person uses services prostitute . extremely confusing guy . shows feelings sometimes , might randomly stop talking time . flirtatious . manwhore . lead . hilarious . full charisma . love . boys jealous . girls jealous girl flirting',1
+'capricorn journey selfimprovement ends almost starts find kind waffle stuffed cheese booze .',1.5
+'best thing ..',2
+'excited see friends family florence  rest time raleighmiddleof nowwhereville fun !',5
+'wants .. .',2
+'stupid washin machine ! ! ! !',7
+'guy got ta get girl town wan na alone sun goes sweet little something put arms around guy got ta get girl town',3
+'pretty awesome whole driveway skating rink  ',3
+'went hospital hours , stopped contractions . still know good bad , lol .   weeks , still little early .. guess wait happy besides , want share birthday anyone ! !',5
+'ik dumb got ta love .. got ta love right ? xd',4
+'love mom . want go hurts see live pain .',2.5
+'cousin house',1
+'chouiefat people thinks mr. teaches better football school wrong yesterday  boys ',1.5
+'sad .. sad ..',1.5
+'sure bad parenting  overcare  think aidan dickie adorable ! love round bellies toddlers ! ! ! lol !   ',6.5
+'went beautiful wedding today happy friends getting married .',3
+'much mah happy ending ! ! !',7
+' years old still understand lot things , cool .',2
+'ready wach game ! go bears !',5.5
+'loved aisha ! ! ! soooo like delhi ..',6
+'blew christmas prezzie  ',3.5
+'happy birthday wishes tomorrow goes , bro . heve fab day guys .',2
+'good time nite . good see skateworlders min since saw ! !',5.5
+'got back dew tour ! got chill ryan sheckler bunch pro skaters',4.5
+'says remember good old days back  hundreds ? neighborhood rowdies used romp around yard kicking old piece rope . times may changed old man tran',2
+'thanks birthday love ! ! ! ! !',7.5
+'enjoying last day leave frown , sad , angry pouting .. working new song get back morrow sort project awards , photo competition bridge building writing new article ce magazine ..',3
+'st.maarten phone service island ! ! ! ! ! ! fun happy',7
+'like moms bed',1
+'thanks birthday wishes .. xxxxx',2.5
+' day nascar fans remember r.i.p . miss .',1
+'need massage ..',2
+'went juniper last night good time jeep . got rained soaked got home',1.5
+'going long day tomorrow ..',2
+'wedsite asks mind . nothing mind , . silly website',1
+'yr ever end . lord knows . hopefully something happed good us . lets keep smiles uplifting spirits maybe turn best',1.5
+'feels happy ! would care died right happy',5
+'happy , got truck earlier afternoon , taking driving test morning . finally  june . happy',3.5
+'get road back ocala , thank god giving strength ..  days week traveling back forth crazzzzzy ! alll fb friends want see yall church tommorow especially trina , need .',4
+'end go away ! ! worth tears',6
+'great day training today looking forward next busy night friday ! ! ! ok nothing really cool planned still .',5.5
+'say feel mind matter matter mind .  dr. seuss',1
+'go karting blast ! ! ! ! ! rocking sunday .. happy   ',8
+'might pretty sexy , perfect body beautiful .. might anyones choice either .. .. ! pretend somebody else .. copy post profile live life proud',4
+'weak never forgive . forgiveness attribute strong ..   ',2
+'takes  secs food pass mouth stomach . human hair hold  kg . length penis  times length thumb . femur hard concrete . woman heart beats faster man . women blink twice much men . use  muscles keep balance stand . woman read entire text . man still looking thumb . repost made smile !',3.5
+'cus thought win , knew lose , honey , flyer altitude cruise ,',1
+'important life crush enemies , see driven hearing lamentations women .',1.5
+'crisis ! run marmite ! ! ! ! frown , sad , angry pouting',6.5
+'alcohol one drink',1
+'world mouhamed ali mido ? ? ? ? ? ? kinda creepy',5
+'best part kites  trailer  hate luv storys  .. want money back frown , sad , angry pouting',3
+'good game guys ! finally one goal put us semis happy',4.5
+'must mad ta get .  morning day go fishing , , , ,',3
+'damn hot ! ! !',6.5
+'oh goodness ! ! ! ! love boyfriend ! ! ! nice , wonderful , thoughtful ! ! ! sad , always cheers right ! ! ! ! felt happy soooo long ! ! ! ! !',9
+'theres whip theres way',1.5
+'want grow old . want stay way right forever',1.5
+'thanks everyone bday wishes . coffee !',6
+'hard understand one hurt one trusted .. huhuhuhu .. sori ! ! ! ! ! ! !',7
+'bad trip ..',2
+'lmao , birthday roffl',4
+'siss bday coming ! ! get ? .. oh ik ! bout apair jordans ? ! wait thats want ..',5
+'bored ! nuthinz mind',6
+'wow , , jackass . seriously ? doubt evolution mock proven facts missing links leading humanity . sir asshole . last time checked , actually seen god  kickin around neighborhood lately . guess fiction , sorry bible , important nonfiction days ..',5
+'google wo search chuck norris knows find chuck norris , finds .',1.5
+love,1
+'thinks might slightly addicted farmville . wonder  step program .',1.5
+'friends angels lift us feet wings trouble remembering fly .. ! ! love love',5
+'friends restaurant city .. please please gift friend donny chan please ..',2.5
+'careful fall , may help bills .',1.5
+'thanks birthday wishesmay blessing also p',3.5
+' years old ..',2
+'drinking australian try helps sleepless',1
+'porto gon na get gunned arsenal night',2.5
+'see ny giants tonight ! sure preseason defense going nasty year . good luck everyone else',4.5
+'hate going basketball games . gay .',2.5
+'wow today crazy maybe beer music sooth jangled nerves happy',2.5
+sleepy,1
+'ike thank everybody came wedding shattered greatday yesterday family friends .',2.5
+'thanks birthday wishes .. love guys ! ! !',6.5
+'bejeweled blitz ! ! happy',5.5
+'comes weekend .. plans frown , sad , angry pouting',3.5
+'roof ! roof ! roof walmart fire ! .. hahahaha',5.5
+'merry christmas peeps',4.5
+'think allergic house .. major asthma issues',2
+'loving life ! ready fresh start warm weather georgia lackland  hopefully  go push flights one closest friends ! life could get better , car would made chocolate !',5
+'say feel mind matter matter mind !',5
+'baking cookies ! !   love',6
+'ugly uniforms ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! look bad play .',8.5
+'guy says hott lookin bodyy.when guy says pretty lookin face.when guy says beautiful lookin heart .',1.5
+'knew mind , begging safety room jacket makes hug ! ! !',6.5
+raining,1
+'swim meet today , make back finals sucked going movie movies thats good guess . happy',2.5
+'midnight motion lyrics page complete',1
+'playing mac book .',1
+'lover fighter .. fighter get ideas',2.5
+'eyelids .. fight .. gravity',2
+'nice day maybe something .. nah',1.5
+'oh god , think going die computer . frown , sad , angry pouting',2.5
+'consumed anger .',1
+'good sleep eyes closed',1
+'check new profile .. give buzz .. happy',3
+'today maha shivratri trust pray blessings shower like rain .. om namashivaya',4.5
+'well better go . bye',2
+'dang cornsuckers .. dang ! ! !',7
+'.. look like .. lol ..',2.5
+'father told , always dying',1.5
+'liver , bacon , onions mash gravy mmmm',2
+'palm coast , florida happy',2.5
+'.. moonwalkn water , wit bricks tied around kicks .',2.5
+'yet done ape .. lunch dadi jay pepper lunch , edsa shangrila',1
+'finally finished project ! ! ! . . . still got tutor homework   ',6
+'goodnight .',1
+' insert witty , funny , andor bitching job status message ',1
+'merry christmas !',4.5
+'rather sad , , , leaving soon ! frown , sad , angry pouting',4.5
+'? ?',2
+hungover,1
+'fight tomorow yall needa go good fight',2.5
+'week went slow skeptical , annoyed , undecided , uneasy hesitant finnaly friday tomorrow whoop whoop come knotts ! laughing',6.5
+'thinks avatar rox',1.5
+'sweet boy vet today blood drawn check medication levels . seizure late sunday night see medication needs increased . poor guy , least excited go vet ! ! ! happy',5.5
+'life handed fare share lemons . decided make grape juice , stand back watch everyone wonder hell .. happy c',2.5
+'excited .. getting hibachi later ! ! !',7
+'thinks weird facebook deleted half wall ..',2.5
+'well scouts went okay maybe   boys showed . weather awful . dodged less  downed trees way home . proud mark picked knot tying really quick . adults scratching heads mark picked snap . tonight square knot bolan  spelling ?  knot . awesome !',6
+'feels like woke different apartment ..',2
+'drowning work  ',1.5
+'ready get done today movement sides recognize better us act talk . better us choose action inaction  future past . courage faith , believe meet responsibilities people , planet.the president',2.5
+'.. , friends make person lived .. love make something special .. important .. one causes pain .. sometimes .. cause .. tt',2
+'lost lbs need lose ',3.5
+'ohhh , bored .. someone see hang ..',2.5
+'say world end fire , say ice . tasted desire hold favor fire . perish twice , think know enough hate know destruction ice also great would suffice .',1.5
+'whats going today ?  already bored . hit',1.5
+'thanks bday wishes',1.5
+'dread free',1
+'wow ! first day scol',4
+'criticize someone , walk mile shoes . way , criticize , mile away shoes .',1.5
+'nite nite sweet fb nite owls !',4.5
+'wish merry cristhmas happy new year',1.5
+'got elkins high school late , set middle school already , played good concert , waited around half hour , played another one , went walmart , got free food , went back , packed , went home , looonnnggggg day ! ! ! ! ! laughing',7
+'needs pair nice heelsboots .. hmm',2
+'merry christmas good night !',5
+'wanting go whitewater rafting summer colorado ! wants join fun ?',4.5
+'missing girls ! ! ! !',6.5
+'giving nostalgia',1.5
+'quite heavy bit mind days . due time , come together . meantime , yes folks .. miss king living like dying . mother recently told whatever makes happy , today tomorrow may come .',2.5
+'ca wait kick ass kickboxing tonight !',5.5
+'getting ready go real world cut trees .. someone please ask someone charge pay heat bill ? little chilly ! ! ! !',6
+'goal number  , graduate school get job  check done . goal number  , become fluent spanish star spanish soap opera  progress',1.5
+'watching lost boys mopey ..',2
+'listening judas priest , drinking jameson whiskey , updating facebook .',1
+'fun spending time sister beautiful neice last night ! bet jessie going withdrawals though , since found phone van getting back home dropping alyssa  house ..',4
+'jst want bed',4
+'thank birthday wishes ! ! !',6
+'please hold , status messages important .',1.5
+'funny feels like one thats fighting fix things ive given everything done everything asked questions arguements still reminded everything still making difference',2.5
+'happy matthew kings leon wave hi friday nite concert .. yeey love much .. hehe happy',4
+'excited weather week . ready winter !',5
+'hehehehahaha lol . got new carrr ! ! ! excited ! !',7
+'people change guess .. things could .. others .. happy mean ca little hurt left behind .. forgotten frown , sad , angry pouting',2.5
+wow,1.5
+'live today',1
+'blast suns game ! thank !',5
+'idea fun .. killing everyone !   ',5
+'got aftercare call tattoo artist . awww , even asked car , kind ! tattoo fine , car still sick dr .  deep breath  favor lord ? favor',3
+'boooooooooooooooooooooooored , faaaaaack',3
+'gudnyt guys .. gudmurning na rin ..',1.5
+'kicking boogie call duty ! yikes !',5.5
+'thank birthday wishes ! love love',5.5
+'scored  mega jump ! ! ! beat !',6.5
+'hate living society torturing one animal cruelty , torturing many animals science .',2.5
+'heard blues bay house .. ton laundry . dump run .. went moms stacked wood . helping fold baskets cloth .',1
+'thanks everyone birthday greetings',1.5
+'stomach making rumblies hand would satisfy',1
+'better best .. lucky linger life .. cooler flip side pillow thats right ..',2
+'trevwo go bed',1
+'one week till move jersey ! bitter sweet',5
+'add later .',1
+'fast time passe cheeky , playful       ',1.5
+'oh tirrred .. behave ? behave ..',1.5
+'thanks birthday wishesssssss',3.5
+'totally psyched ! registered wedding planners institute canadas june  ,  course !',5.5
+'huhuuh frown , sad , angry pouting skool holidays ending soon ! soon !',5
+'makaboring ! ! ! ! work naman',6.5
+ya,1.5
+'wants thank buddies birthday wishes . thank .',2
+', anthropologist',1
+'fell asleep way early dude !',4
+'tombstone head graveyard mind ,  mind dying',1.5
+'want positive news fb everybody cheer',2
+'many nights days , one long year course . even happy life without measure darkness , word happy  would lose meaning balanced sadness ..',1
+'thinks time starts designing man  .. ! !',4.5
+'well facebook friends family , wonderful christmas ! ! ! ! hope great holiday well . year help son open presents soooo exciting watching get sooooo excited gift . awesome ! ! ! ! !',8.5
+'piss love',4.5
+'packed go france tonight ! woohoo !',5.5
+'finished positiveandnegative decimaltobinary converter . realized simple ..',1.5
+'babysitting love',1
+'son father wanted',1
+'love kind torment lover endure',1.5
+'fight believe would point living ? use voice stand something !',5
+'well hope , congrats new baby boy , finally ! happy',5.5
+'addled due  sweet tooth  wishes ants .   ',2.5
+'hates thumbs ?',1.5
+'rollin  like rockslide , layin  da cut like peroxide !',4.5
+'hahaha . . . spam page . . .',2.5
+'wow ! absolutly live house wdamn fools got one talkin phone even related idr got one room screamin bitchin reason phone got one damn nobody listen askin phone yo damn bidness god ! gon still half awake',5
+'quotes tiffs bday .. omg ! pants gone awol ! .. feel like someone pissed ! special brownies ! made happieness ! point .. dead , point  bliss laughing maniacally ',5.5
+'feel well   .. sick stomach , dizzy , light headed .. maybe nap help , hope .',2.5
+'kinda sad keep missing episodes america story us history channel . truly greek tragedy .',1.5
+' cardiff',1
+'got work  half hours ago , half bottle vodka , thanks sean passing made drink delicious poison , looks like  , bottle vodka alone .. oh lover missed .. wink smirk',2.5
+'heading gym .. need get sorry   back shape ! !',6
+'busy day tomorrow probably start homework',1
+nutjobbbbbbbbbbbbbbbbbbbbbb,4
+'ca wait see daragon carson saturday',1.5
+'getting ready cook supper . menu tonight .. parmesan crusted chicken fettuccine alfredo sauce .',1.5
+'got dremel ! thanks riz kid . imma killen  jewelrey dude .',5.5
+'one thinks valentines day bad ?',2
+'sooo tired , love bed',1.5
+'welcome rodeo , hold meee . baby take slow . ride key .. know gon na left , right , front back ohhhh enough .. take everywhere , around world . like . put reverse cowgirl . put hands air , wave round go yeeeeeeee hawwwwww !',5
+'going watch unstoppable .. harry potter wait want harry potter better frown , sad , angry pouting',2
+'another great ole night taco bell',1
+'csa blows mind every week .',1
+'hear banjo music .. means run .',2.5
+'would like thank wished happy birthday today !',5
+'like kitchen counter',1
+'awww mann ..',2
+'yay ! got classes need !',5
+'would take things quiet ? quiet like snow . xd',2.5
+' dollars  dollar lottery ticket plan use food .',1
+'thank wishing happy birthday .',1.5
+'real lyrics chorus dynamite , throw skittles air sometimes saying yo ! taste rainbow',2.5
+'facts fit theory',1
+'makin garlic bread dinner .. yummm happy  suchahippie love  ',3
+'anyone knows someone cancer , check documentary , interesting . called beautiful truth.  ',1
+'things starting look .. happy',3
+'time art',3.5
+'drugs , take medication ! ! !',6.5
+'know .. bird word ! ! ! ! !',7.5
+'boycott needs sleep get high fever .',1.5
+'back sydney ! ! ! soooo good see fam . still plenty people miss see ! !',6.5
+'ugh , dnt wan na go class tonight ! ! ! ! ! ! ! !',8.5
+'sore everywhere tt',2
+'love daniel aaaaaaaaaaalllllllllllll heart happy happy happy love xxxxx',5
+'thanks everyone birthday messages . means lot , lot money would mean even . send money . accept cash , check , credit card  master card  , gold .',2
+'wtf ? ? ? wagner ? ? ? go home ! ! ! !',7
+'wish still portugal animal defo goin next year',1.5
+'sweet asphyxiation dismemberment . sex puts mood make die . obsessive hands gently grab neck . look sick eyes .. hate people',2.5
+'great birthdaygreat friendsi lucky girl  zoo today !',5
+'.. cheeky , playful',3
+'happy birthday lolo nonito ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !',8
+'lady order food  rude fuck wat bitch',2.5
+'grr .. hate sick !',5.5
+'shout melpo ! ! love xtlook , fully rock p cyaaz english ! !',6.5
+'crna happy',2
+'sad day patriots land today . guess get talking much smack .',1.5
+'early relaxing sipping long neck corona ?  hick   ',3
+'tried farm pals need download adobe flash player work computor  ',2.5
+' blink miss flying along time machine anyone ..',2
+' days back us baby !',5
+'worst way miss someone right beside yet know never them.  ',1.5
+'getting bored facebook .. xx',2.5
+'thank whoever sent roses malaysia .. name saying general thank everyone .. pics soon .. xox',2.5
+'fixin  go crazy blaaaaaaaaaa bamaboyz  life',2.5
+'feeling well ..   ',2
+'r.i.p .',1
+'dirty yo think !',5
+blank,1
+'friday sons last set chemo ! thank god ! !',6
+'unlimited rage .',1
+'know coming fromthis barrage fantastical thoughtsbut , go ! agh !  whispers  seven days ..',5
+'really nice day happy',2
+'thanks everyone',1
+'thirty seconds dead , blow place home time corn flakes .',1
+'transfers week ..',2
+'like artest .',1
+'need check pulse , killed ! ! !',6.5
+'wolves , howl lost soul ..',2
+'mind ? september cancer month . memory every cancer patient , family member friend lost battle cancer honor continue conquer ! put  hour love someone cancer . many wo copy paste , ?',4
+'recuperating lasik .. day filled naps , eye drops , naps ! laughing',4.5
+'love capacity take care',1
+'put better pics fb take pics album .. thoughts ?',2.5
+'call call .. weedman ! ! ! ! !',6.5
+'aglow possibilities ahead . , make happen .. hmmm ..',2
+'life beautiful',1
+'imvu  many things ,  ',2
+'well , finally back mission , .. well , .. like returned missionaries , wondering happened friends aquantances . absolutely everyone facebook  fact , think taking world  , figured could join find everyone .',3
+'extremely excited , fly dec.  noon .',1
+'finding job . gettin back feet',1.5
+'.. went driving today .. almost died ! ps . jess shaving legs speak happy',4.5
+' feb  , today bit sick.ask go general office , sickbay rest.after  hour , return lesson .',1.5
+'adults forget talk another ? talk others lawyers ? ? ! !',5.5
+'tired homework .. spring break feels real santa clause .  person ',2.5
+'got braces put',1
+'thankful ! ! thanks everyone came wedding',5
+'started blogging , let try keep !',5
+'fuck fire alarm . . . !',5
+'sleeps better cold nights .. algernon wake much .. ?',2
+'wo semester end ? ?',3
+'octopus prediction spain win cup  ',1
+'whatta day ! ! lost blue slip tickler . huhu .. salary endangered well board exam . .. slowly losing mind .. week starting .',4.5
+'olivia never laughed hard reading peter piper . fourth fifth attempt get whole thing said , peter piper picked peck pickled peckers ..  idea funny ',3
+'woke deep sleep . time eat cereal yo',1.5
+'thank everyone birthday wishes ! great day !',5
+'woods !',4.5
+'blah . think andromeda strain .',1.5
+'live hundred years , want live hundred minus one day never live without . love ! happy',5
+'god man , lie . human , change mind . ever spoken failed act ? ever promised carried ?',1.5
+'soo bored frown , sad , angry pouting',2.5
+'well , family friends , hope summer brings best , even road gets little bumpy , hold , time heal ..',2.5
+'rabbit ! tomorrow',5
+'p.p.s feint hearted',1
+'school start !',5
+'make way .. resist like . ca tell feel .',4.5
+'oh sweet victory . beautiful win tonight ers .',2
+'waiting one week go back murray .',1
+'lot people find trapped something outgrown unhappy .. know get think supposed make happen ..',2.5
+'next one ..',2
+'killing inside',1
+'really wants see movie year one  okay ',1
+'subject lot policy routing way home due flooding caused heavy rain . policy routing implemented cars blinking blue lights standing  degrees direction road .',1
+'holy wind hell batman ! damn rain ? dirt blowing eyes .',5.5
+'brithday tomarro ca even talk',2
+'yay , heading sedona tonight wink smirk',3.5
+'pessimist sees difficulty every opportunity , optimist sees oportunity every difficulty',1.5
+'bonfire  roasting smores .. gon na play chubby bunny',2
+'relationships like glass . sometimes better lev broken try hurt putting back together',1
+'loving lord . great time church . spirit really moving . praising lord best thing ever .',2
+'hockey fan last night sharks game hook ! sick seats fan !',5
+'jus chillin came second da  third da  purple vs silver track meet today gettin close  pro status',2
+'found tax return rejected one reason another ..',2.5
+'two words . one sickest players around .. period .. ok two words .. judge ..',2.5
+'hear ye hear ye .. mistress stephanie chain drive tomorrow night  beauty bar friday . come .',3
+'nobel prize given maths maths.you know ? ? ? ? ? ? ? ? ? ? ? ? ? reply answer . hurry ! !',7.5
+'today paintball day time pics pain',1
+'hopeful home investment plan . happy',2
+'wake police cell together . using  words , would say ? note  comment , must copy paste status , may comment well .. good sport play along ..  words harder think',2.5
+'limpezas day ..',1.5
+'loving living florence hear like  every else nice cool go shorts fine happy happy love miss everyone',2.5
+'excited see bec kiddos . much today though .',2
+'fairmont snowboard trip , fernie tomorrow . woo hop ! !',6
+'well .. birthday vacation starts tomorrow .',2
+'something colombians share force inside , felling alive everything hearts ! ! make us find solution everything , put smile problems beat ,',4.5
+'registered vote today . tking wife tomorrow .. oct  deadline . whatever beleive , please . democracy get leaders deserve',2
+'omg stupid weather ..',2.5
+'needs partner crime ! ! !',6
+'fuk bitch stack chips get money ! !',6
+'jesus .. everyones geting old including ! noooo want old fart laughing',5
+'two epic gigs  week ! wooop !',5.5
+'completely done painting , decorating unpacking weekend ! time house warming party .. drinks flowin ! ! ! .. lol',6.5
+'stand !',5
+'easily offended , fuck ! ! !',7.5
+'worlds   think right sorry anyone might offended',4
+'look , really uncomfortable drug use , stop pretending neutral . indecision comes damp prejudice disingenuity .',3.5
+'mood work .. slight fever .. right arm really hurts .. badly misses someone .. printer order ! bad day ! !',5.5
+'usual going work right ..',2
+'calling models ! ! ! ! ! ! ! model call wednesday , april   . registration begins   pm sharp ! ! ! !   , includes televised interviews , photoshoots , free admission pre freaknic party beginning   pm later night .',6.5
+'nights like really make miss old days bluff',1
+'time waste ! ! !',6
+'mommy comming back oregon .. yay ! !',6.5
+'first period molesting bear lmao cute though happy',2.5
+'visited vanderbilt weekend . interesting gave lot think .',1
+'thank everyone said happy birthday',2
+'think , become ! ! ! ! !',7
+'play last , night soooo long really good ! ! ! happy',6.5
+'wishin happy valentinez day guys galz .. ! ! ! !',6.5
+'trying clean account .',1
+'look yor future',1
+'best weekend',1
+'whaaat dayy  ',3.5
+'global warming meltdown  beat new pagan religion',1.5
+'brb . happy',1.5
+'oh shit ! got done homework like .. lol real .. lol',5
+'yea , passed bed burn homework .',2
+'time  know , knew several months ago . knew , turned around somehow .',1.5
+'whatever give woman , make greater . give sperm , give baby . give house , give home . give groceries , give meal . give smile give heart . multiplies enlarges whatever given . give crap .. ready receive ton shit ! ! ! ! .. real women keep going !',5
+?,1
+'wants thank lucky stars beautiful friendships made years happy love thank birthday wishes love',3
+'hoping decent weather weekend ..',2
+'time anthropology . talk fun . lol',1.5
+'internet jackkkkkkked . love',3
+'still sick ..',2
+'without boys  days still accomplished half wanted ! ! ! time management sux !',5
+'college application faint heart ! immunization forms birds ! one place wo sign one shot place wo sign shot .. going sign form  ',5.5
+'love guy friends much ! would die without ! r awesome amazing !  guy friends knw tht totally completely love !',5
+'think fire stir coals throw another log . fire near burnt .',1.5
+'anxious nothing',1
+' thanks happy birthdays everyone happy happy',3
+hiccups,1
+'nice day happy sadly spending homework .',2
+'hoping training take  hours like chaplain said would . hope pass copies   shack  ..   ',1.5
+'make living  get  . make life  give  . something think prioritizing ..',2
+'!  r di h ea  !',5
+'oh yea pep town .. horn saturday party ! ! ! ! !',7.5
+'almost done unpackin . house looks beautiful . lovin life ..',2
+'thanks guys ! ! ! going disney world ! !',7
+'heater hot water building workin . crash someones house bag cloths bar soap .',1.5
+'need quit making ass mi self',1.5
+'wisconsin dells tomorrow ! !  days nights wilderness ! ! happy',6
+'sure wrong .. probably fault !',5
+'holy christ ! great time last night . thanks everyone coming .',5.5
+'brazil sealed lips tonguetied',2
+'sooooo tired',3.5
+'merry christmas everyone ! ! ! god bless . xoxo',6
+'boiling pasta',1
+'arkham asylum far addicting ..',2
+bored,1
+'name .. anymore .. wkwkwkwkwkwkwk',3.5
+'whew got day .. nxt  days ! ! ! .. lil man strep jst viral got ta run coarse ! ! ! thanx god !',6.5
+'going vegas tomorrow . phantom opera come !',5
+'exhausted long day work . need foot massage ! happy',5
+'copying work schedule , careful skip days .. turns open , morning need start early . frown , sad , angry pouting',3
+'face .. feels like someone punching inside . stupid sinuses .',3
+'wiide awake .. .. puppy dog sleeping great though ..',2.5
+'mind ..',2
+'hi , .. say something .',2
+'eat faqyt dik sck fat pussy',2.5
+'oh gosh ! ! range nerve racking ! ! must say car pretty sexy ! happy',6.5
+'got itouch',1
+'chillin detroit , ',1.5
+'better parts name put ya mouth .. curious ask ! ! ! ! ! !',7
+'still waiting life changing phone call .. maybe tomorrow ..',2.5
+'bday shopping .. yay lol . least good company happy',3
+'sittin thing third time ever ! ! ! lol',6
+'sure multiple engagements showing friends  feed serious april fools cheeky , playful',2
+'holy cows eating corn chips ! friends ! ? laughing',5
+'trade animal egret .  egret holding moving next level',2
+'got alot songs  ddr computer xp  still alive also portal laughing fun !',4.5
+'got converse shoes happy',1.5
+'cheers crashing random people parties ! ?',5
+'numbers . facebook ! ! joke . go top right screen , click account edit friends . go theleft side screen click phonebook . everyone phone numbers beingpublished . please repost let friends know .. happening remove .. numbers .',4.5
+'possible make strong weak time ..',2
+'best time lastnight first half day spring break , r , , , , , ,and best time much still week go . god love friends',1.5
+'never thought cleaning car air filter  k   would hard ! ..',5
+blueberry,1
+'hopes stay really good job . afraid could happen . .. . wife kids . depend substance .. provide . fail would hearbreaking . pray keep keepin  trust god provide matter outcome might .',2.5
+'sick bed frown , sad , angry pouting',2
+'man quizzes fun , idk',1.5
+'thanks birthday wishes , twas good day happy',2
+'yes , finally ! ! !',6.5
+'want christmas hippopotamus',1
+'sick alone',1
+'summer starts tomorrow laughing',3
+'odd dream . jess scheer , josia klein , laura zweig , tommy rugrats  except give reptar shirt .  enjoyed much . laughing',3.5
+'almost dad birthday ! ! ! !  ',7.5
+'good night .. bye ..',2
+'thank greetings happy made day happier know many woderfull people life exist happy thanks',2
+'hr shift , home mow front back garden . . knackered !',5
+'saturday horrible friday nite hope today better day',1
+'butt set .. lol .',2
+'still getting used place surpised',2.5
+'done work .',1
+'feel like lied life . happy kind way . probably even make sense , ok .',1.5
+'intelligence common sense !',4.5
+'well fb next time peace  love ..',2.5
+'white ..',2
+'buy flowers .. noooo .',1.5
+'crapiest dream ever life !',5
+'chocolate pizzza yuuuummmmm ! ! ! ! ! ! ! ! ! omg',9
+'get drunk birthday . said could done ..',2
+'put status beautiful daughter world ! ! !   ..     .     .   .',5
+'thank much anton reminding alter space .. great job man !',5
+'thanks b day wishes everyone happy',3
+'listening music .. chiillliin     .  b   ',3
+'slightly disturbed ..',2
+'got bike everything live  plus rage machine ! ride together die together .. bad boys life !',4.5
+'ca wait darn test ! move everything else . w counting days . happy',4.5
+'yesterday great ! school laughs whole time , school interesting , work funny fun ! lol tired skeptical , annoyed , undecided , uneasy hesitant',4.5
+'even disgusting thought ..',2.5
+'happy bday naya .. let know wat doin  da day babes ..',5
+'body apparently thinks sleep overated . glory glory insomnia .. guess get used constatnly opperating   hours sleep .  blink  blink ',2.5
+'stand people pretend nothing certain folks whole time chat time               posers knew',3.5
+'hey frens , , , lost al contact numbrs cell .. pls forward number  cell plssss',2
+'day life ..',2
+'whomever trying call .. sorry , seem lost phone flurry collaging .',2
+'grrr . need extra things worry feel like crap .',3
+'finally get go back work happy',1.5
+'finally made facebook .',3
+'hard day today gon na long rest till next time happy',2
+'.. supper  check , dishes  check , couch  check ! need find ambition shower b bed ! long day !',4.5
+'went talked snapon rep today . ordered  . tools  retail value  . getting free ! excited ! dad sent e cheeky , playful ecting package weeks !',5.5
+'hates wen lock somthing get wrong instintly spell corektly',1.5
+'never really knew could dance like .. happy happy ',2.5
+'took temp running fever .. whole body aches . feel like crappola work tonight ca afford take since curtis feels need steal wife . fingada ! !',4.5
+'would get foot snow year decide get dish',1
+'get tan  .. nobody ever tans .. girlfriends scared sun guessnothing blue ocean sand ',2
+'lost day yesterday .. thought thursday wednesday .. love holidays ! ! !',6
+'sick constant gaybashing .. .. .. , wants makeout random churchs prayer session ? laughing',3.5
+bored,1
+'shocking ! ! ! laughing',6.5
+'far still school tomorrow crying',3
+'merry christmas everyone ! ! !',6.5
+'one life',1
+'ok , paranormal activity  actually pretty scary , definitely first one lol',1.5
+'account messing status update . .',1.5
+'finally done stock .. fun skeptical , annoyed , undecided , uneasy hesitant',2
+'hope great day sis   ! ! ! finally  !',6
+'grr know phone skeptical , annoyed , undecided , uneasy hesitant',2.5
+'realized somebody accessed profile added strange applications . take care next time onwards keep system locked away .',1.5
+'well time updated photos ..',2.5
+'passed grade frown , sad , angry pouting',1.5
+'need job .. man economy sux matter read news',3
+'life indeed would dull difficulties .',1.5
+'getting business together , ',3
+'celebrated first borns first birthday yesterday . still ca believe whole year gone already . thanking god many blessings .',1.5
+'hey thnks ..',2.5
+'lethal weekend girls coyles halls feins ! theres way kidney infection guna stop gettin wasted ! much funny shit went even wer begin .. newcastle !',5
+'bazinga !',5
+'paitence virtue really need work .',1.5
+'help help help help help !',6
+'tried take kids take picture neighborhood true value santa , little ones would abide . still cool see path lined grills instead usual fake pine trees far less stress level failure would occur mall santa .',1
+'wishes could skipped whole year  .. worst birthday ever ! ! ! !',6
+'home happy',2
+'seen transformers  revenge fallen  times already',1
+'subho maha sashti friendzzzzzzz ! ! ! ! ! !',7.5
+'isnt anyone online ? ? ? ? ?',4
+'mozambique today',1
+'nfl playoffs ! ! saints secondary lost one , still think  team allowed ! ! colts lost thank god ! ! go ravens , go eagles ..',6
+'like floor',1
+'dude payed visit wlo today got argument laughing typical scorp eitherway',3
+'sick stupid people criticize , get life seriously . , change cause stupid words shut hell stop .',3
+'staying  hours straight good idea worth',1.5
+'like cursors jump around end typing somewhere intend ..',2
+'health care , always health care military . one wants health care government join military . one see real poverty , one believe u.s. poverty . every dollar government prints puts economy , need dollar .. lessons . get   fight rights .',2
+'invited lately three friends grace respective daughter grand day   birthday celebrations  baptismal .. consecutively .. missed birthday celebrations made baptismal reception .. apologies .. birthday wishes angels , dolly ..',2.5
+'young nothing worry . life wonderful problems .. happened ?',2.5
+'bank america stole   mvd incorrectly charged car registration  times ! ! bofa give money back make charges overdrawn . know mvd charged three times ! ! watch .',6
+'friend one gives tissue cry , best friend one tissue shovel bury person made cry !',5
+lyl,4
+'chillin day tell go watch kids',1.5
+'happy mothersz day  ',2
+'love f.r.i.e.n.d.s  tv show , actual friends ',2.5
+'hey , everyone . finally got facebook account .. everyone forget already ? ?',3
+'thanks birthday wishes . guys awesome .',2
+'going golfing today',4
+'one careless match start forest fire takes whole damn box get campfire going !',5
+'well , friday night , feeling abit better going work today . nothing like party time friends recharge batteries .',1.5
+'meet god son happy',2.5
+'strolling memory lane name new technology ! .. always good excuse staying later lol',4.5
+'love day lazy day',2
+'love flows like fall away',1.5
+'never felt true pain untill sneeze hot , spicy sausage nose',1.5
+'sick .',1
+'thank happy feels gr  loving ppl around happy happy happy',3
+'end near going die',4.5
+'sleepy tired .. zzzzz',2
+'always done , get always gotten ! ! think diffrent ..',5
+'cry . smile happened happy dr. seuss',2.5
+'man , start getting early often .  ',2
+', help friends , one , super reggae artist snow , one best birthdays history .',1.5
+'howaya mammy , lol pants ground ! ! ! ! ! soz touch , money hassle per usual .. another note , home holiday still cards ? ? ? number micro fall . anyhoo , tanx million pressie ! pressie got , even got kings ransome blunts , europes bitches , pressie wud still greatest.xx bzr',7
+'freedom package deal  comes responsibilities consequences ..   ',2.5
+'atrocities done name religion cause . example ,  , crusades , inquisition , witch hunts , aztec human sacrifices , islamic jihads , roman persecution christians , thugee murders , child molestation , homosexual prosecution , racial prosecution , buddhist burma incident , numerous incidents jewish prosecution',1.5
+'alright breaks time get back work',1
+'workwork  work',1.5
+'sity day mine',1.5
+'underwood mayne gig mermaid tavern thursday night ! anything , , please come see us live ! side note , available signing random possessions show . see ! !',5.5
+'got used wristband colt mccoy . walked gave',2
+'finally cable bay ! beautiful sunny weather . ca wait get ..',4.5
+'hai w lng !',5
+'listening , wanting watch twilight . also wondering someone ..',2.5
+'watching true blood online awol moment ,  hehe',3.5
+'love mcdonalds',1
+'seriously sick . frown , sad , angry pouting',1.5
+'go happy',2.5
+'life short wake regrets . love people treat right .. forget ones . believe everything happens reason . get second chance , grab hands . changes life , let . nobody said life would easy , promised would worth .',2.5
+'bi winning banging  gram rocks thats roll thats roll',2
+'newport taste like cheeseburger',1
+?,1
+'size matters',1
+'got notice dr retiring ! , go ! especially donnie complex case . anyone idea good around ?',5
+' months goodbye laguardia , finally . school ish like prison bid . time plan next move , , taken ova tha world lol ! . wit ya jus gon get ran ova , move ova lames , time play gamez , ya dig !',4.5
+'wishing grades posted already .. suspense kills !',5
+'merry christmas everyone ! ! ! ! !',7
+'nice day happy',2
+'stop ..  minggu lagi semuanya sudah selesai .. think miss happy already teach many thing many real e cheeky , playful erience . hope never forget everything teach .',3
+'learned new ways oregon scewing people  tax return fix current budget problem .',1.5
+'well , thank god blessing see one year ..',2
+'qwhy uu always quiet ? dat quiet ',3
+'thank birthday wishes love , ',3.5
+'completely honest  hours . ask one question  inbox  . answer matter . full honesty , dare put status see questions asked',4
+'halloween ! ! ! ! ! ! ! ! ! excited ! happy',8
+'got f ! ! ! lol',6.5
+'hmmm pretttyyy good day . moved wood scooped cow crap ! yay ! ! ! ! ! haha ! well least getta go shopping tomorrow ! ! happy yay yay ! !',7
+'p.s . longest wedding ever !',6.5
+'calculations correct baby hits  miles per hour gon na see serious shit.  ',2
+'daddy birfdayy . gon na mexicant eat taaacos .  , pink ones . jk',3
+'going thai birthday meal oxford . yum yum',2
+'nistakes much fun make .',1.5
+'enjoying alaska',4
+'working second youtube cartoon . one grey . knew years ago . stupid squad , felt name change order . hope like . tomorrow .',1.5
+'hanging familly lake',1.5
+'gged exam nxt week ..',1
+'ca find better profile pictures .',1
+'go crazy sometimes , go crazy tryin  keep losing mind . ',1.5
+'queen elizabeth joins facebook today ..',3
+'tonight ! sep. ashleigh mauseth crash site  pm  long yrs gone missing much .. sycamore rd church .. please copy past help spread word anyone may see page',7.5
+'comin home',1
+'girls finally coming home gone five half weeks ! ! ! late night parties !',6.5
+'give presents farmville pls .. thanks .. happy',3.5
+'hate job !',5.5
+'ate hamburgers gon na go chill',1.5
+'never make someone priority , , option .',1.5
+'favorite bruise fading , almost gone , memory , anyway ..',2.5
+'got elbowed mouth playing basketball today . lip looks like got bad botox injection . damn leaving house . like need fuller lips really .',2
+'realises people looking strange . smells bad needs shower ! ! go get clean smell nice',5
+'need donkey please thank',1
+'worst thanksgiving ever . broke mand hand , got cast , able play basketball season sport next  months . f   king great',3.5
+'micah way home wonderful visit arizona . thank goins  clan warm welcome !',5
+'decided slowly remove fair weather , negative fake people life longer respond , realize fall  ',3
+'much fun crazy family sea isle city new jersey !  hearts , happy',5
+'remembering ones died islamic terror attacks yrs . ago . bpc waiting bel get class overheard someone say plane crashed building student center . spent hrs  people watching one small tv news .',1.5
+'let see forthcoming facebook friends . leave oneword comment think best describes using third letter name . one word . one word . copy paste post wall leave word . could fun !',4
+'ateam football  knox  , mccullough  .',1.5
+'homelessgo without eating . elderly go without medicines . mentally ill fight fortreatment . troops go without proper equipment . veterans go without benefits promised ! yet donate millions pounds toother countries . time sort country first !   repost   people facebook wo . know   , ?',4
+'.. sleight hand twist fate , .. wait without . without ..',2
+'wegmans using wifi finally check everything .. pay stinky bills . oh , way , roadrunner suck .',2.5
+' registered cac  home  said could . phhhsss .. got anything wit computers . gots ! !',5.5
+'life bed roses .. prooved yesterday ..',2.5
+'god damn liver wants hurry decide healthy ! frown , sad , angry pouting',5
+'never realized many great pics great people . trying bring . fun fun fun . went dali museum today , since  , played park .. spectacular day .',1.5
+'hates naggers ! ! !',7
+'great time tonight , miss guys !',5
+'reality bites . ouch ..',2.5
+'shitty day ! first car breaks er branden becuz decided punch floor ! arrgh !',6
+'h ha h ha h ha h ha h ha h ha h ha h ha h ha h ha h ha h ha h ha h ha h ha h ha h ha h ha h ha h ha h ha h ha h ha h ha h ha h ha h ha h ha h ha h ha h ha h ha h ha h ha h ha h ha h ha h ha h ha h ha h ha h ha h ha h ha h ha h ha h ha h ha .. lol , gud tymzz nat happy happy',6
+bed,1
+'got back really .. really .. cold',2.5
+'sonic youth show tonight ! ! !',5.5
+'watching junjou romantica time .. never gets old ! love',4.5
+'sick , tired , oh yea , moving takes lot .',2
+truth,1
+'boy writes letter god.dear god',1
+'love giving someone power destroy trusting wo love',1.5
+'great practice tts wednesday night , idsfa practice tonight , got girls tuesday morning , looks like pretty well classes . , pretty good week far , signs point next week even better .',2
+'trying sleep day long',1.5
+'pistachio overload !',5
+'thanks angelica clayton sending alien cow . really like !',4.5
+'goen pick wee man take docs',2
+'hay friends ?',4
+'going school today laughing .',2.5
+'lovin wilmington weather .. winter ? ? ? ? happy',4
+'today feels good true . shoe drop ?',1.5
+'said new dog food improved nutrient level good taste , taste ? ? ? ? ? ? ? ? ? ? ? ? ?',5
+'.. told pokemon month . cool one looks kind cool .  hope remember swap back month . ',1.5
+'trying get comfortable active son kicking flips !  months counting !',4.5
+'another baby reflux frown , sad , angry pouting thankfully knew signs time around caught early',2.5
+'believe going acdc !',5.5
+'religion go church',1.5
+'could find boy wo lie decieve , one could talk instead want alllll time , ask friend',2.5
+'die eventually laughing',2.5
+'life stinks .. spray perfume',1
+'awesome agood time , go astros vs mets friday houston , look weiners beer , wish',4
+'guess one loves comments  days oh well still ppl let know way lol',2
+'ready great weekend ! ! ! ! happy',6.5
+'merry x mas friend families everybody safe driving',2
+'freedom live oh god ! ! !',5.5
+' hours freedom left .. !',3.5
+'says almost guys untrustworthy ..',2.5
+'thanks everyone birthday wishes reminding another f    ing year older',3.5
+chips,1
+'camp . using ithing . hard type . fun , something akin fun . playing piano duet kid named . miss guys . stop using contraband . gbye !',4.5
+'feel like say luv .. thanks  p',4.5
+'never see caring side anymore .',1.5
+'realises homwwork really nohting youth',1.5
+'two weeks get eye operation ! ! !',5.5
+'watching russia x usa . semifinals women volleyball world championships ! later semifinal , brazil x japan !',4.5
+'rest peace nick . things wo anymore go back manila without . goodbye friend .',1.5
+'nothing leave alone ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !',9
+'mind language last post .. rated little higher pg',2.5
+'uuhh , saw first saw movie    feelin kinda twichy',2
+'misses stokes already . camp way short',1
+'thx one showed dinner ..',2.5
+'vegas tomorrow , ku monday ! ! ! !',6.5
+'sick projects ! !',6
+'facebook trick  press , , , , left , right , left , right , b , , enter key , right click press magic crcles appear . way get rid log refresh page .. work ! put status works . follow steps scroll .. circles appear .. really works',3.5
+'new year , new resolutions',1
+'welcoming last year teenager !',5
+'saw song tv  one time favorites  holiday scorpions .. come think , following lines everyone lips omaha winter happy exchange cold days sun',2.5
+'bowling league tonight .. go thunderballs !',5.5
+'fun night',1
+'good birthday , went disney coworkers hung , happy happy',2.5
+'one spliff day keeps evil away',1
+'happy halloweeeeeeeeeeeennn ! ! ! ! ! !',9
+'studying two test friday . taste wine drink weekend reward ..',2
+'justin bieber love baby , baby , baby ohhhh love',3.5
+'happy ! ! ! ! ! ! ! ! ! !',8.5
+' days wakeup ..',2
+'work lame ..',2
+'plan class tomorrow ! shoot ..',4.5
+'sleepless . mix feeling happy , worried , excited , confused , ambiguous , angry desperate .',2.5
+'love women , ,',1
+'smoke weed next  days got jail  months . fml ! ! ! !',6.5
+' today  therefore officially announcing candidacy president .',1.5
+'heading home jakarta .. senangnya , syalalalala',1.5
+'metaphorically loves stabbing .',1.5
+'could get katana   knife works , really wanted .. wise paying   . one .. tempted .. wait next check paid tuesday .. bad money towards rent  sighs ',2.5
+'sunny queensland . beautiful one day , perfect next !',4.5
+'blast hockey game ! ! ! ! joey .. going next ? ? ? ? ? ? ? ? ?',8
+'really stand people right .. think hormones talking , hope . lol',3
+'actually make horrible day . text',2
+'bout time ! shorts tshirt weather !',4.5
+'glass cuts faster deeper knife luver bleeds slower heart tried difusse glass bomb naked shiny red happy',1.5
+'empire state mind far many reasons .',1.5
+'sticks stones may break bones wipes chains excite ! ! ! ! true story ! ! !',7
+'thank everybody wishing .',1.5
+'finally decided new name kitty ! sassafras happy',4.5
+'one day work . ready weekend . got find something get . lol . maybe baby go lil date .  joy ',3
+'ps purple thumboxer',1
+'absent online class ? something wrong',1.5
+'wow hr famine reallly hard got hrs nearly vomitted move weak still raised   kids like everyday .',3
+'well top mammy ! oi sam look ere ! !  hehehe  ',5.5
+home,1
+'happiest people best everything , make best everything .',1.5
+'feb  mar  residential treatment facility po box  limestone , maine .  attention  mark mcfarland would really like get mail support ! ! !',5.5
+'hope everything goes well ! ! ! haaaaayyyyyyy ..',6.5
+'humm , , , , , stopping praying . interesting , much longer , know far saint , know need , get cross',2.5
+'wishes would find someone love love back .',1.5
+'feeling doggie puppies today happy',2
+'want free .. lubayan nyo na ako.bkit ayw nyo mging msaya .. crying sent smiley ! want see ?',3
+'back college ..',2
+'wish cookie right ..',2
+'damn ! hate computers security system ! sooo paranoid let play computer game since trying access files saved computer ! ! ! ! !  ',8
+'first day learn dive , fun laughing .. almost ran tree',3.5
+'love love verb',1
+'cloud nine right .',1.5
+'well quizzes moment .. pretty uneventful weekend due fact call work . sucks least happy get paycheck !',4
+'key good italian tomato sauce plenty garlic , seasoning low heat . wack temp , add chopped tomatoes , sizzle squirm ! ! ! gorgeous !',6
+'r.i.p . kiss  really hoping ',3
+'ca believe dense ! really fallen  , always .. always scared whenever around , always find edge heart attack .. still , really dense ! ! hate , know ? know , , ca find reason hate ! ! tt',5.5
+'middle end choice wish made always make late .',1.5
+'today lamee saucee friendss .',2
+'things today  .get , .survive , .go back bed .',2
+'cats ! looove ! cats !',5
+'thanks birthday love ! could someone fix back ?',5
+'dr phil fat man sold diet book country .',1.5
+'looking forward girls  night . love',2
+'hanging line , dead line .',1
+'hate kind heat .',1.5
+'wow . week already little .. eugh . .  .',3
+'hi , dong woo',1
+'scholarship searching aunt soon . glad aunt medicine ! would lost !',4.5
+'everybody , love juice word  even though alexis  favorite word crapload people keep saying  found .',3.5
+'tom hanks right .. sleepless seattle',2.5
+'paintballin  awesome',2
+'reality person lies reveals , reveal . therefore , would understand , listen says , rather say ! ! ! !',6
+'without car horrible .. horrible !',6
+'history family history ovarian , cervical breast cancer need test done annually . hysterectomy oct .',1.5
+'glad home  couple days fun san francisco !',4.5
+'good day .. started otter creek bible study , chapel service , lunch workout good friend , productive day church  still small group look forward bit , get go back otter creek live showing alice wonderland ! awesome day .',3
+'carolina horrible !',5.5
+'happy java application  bible reading plan  year java affecting lives world ',2
+'  belive actually got talk girl chat roulette cute one ontop',1.5
+'congratulations magnificent utterly uncelebrated five time world champion ..   ',2.5
+'many complications relationship .. upar se exams .. heart attack .. !',5
+'whos goin skii trip ? ?',3.5
+'novel gay ppl going popular hero velcro man , fixes velcro pants shoes ppl lying rubble . get feeling .',1.5
+'feeling rough .. pluracy sinus infection issues incision .. happy better !',4.5
+'thank wonderful birthday',1.5
+'l  ! come watch !  .  come find ! ! laughing  watch dragon ball z .  know new one every tuesday thursday . something look forward ! ! ! ! laughing',7.5
+'color bra made news ? let support troops . support troops please post status leave least one hour . excuses anyone ! ! appear everyone status ! please ones make .. land free home brave ..',5.5
+'happy beerday .. sa lhat ng nag greet .. thank soo much .. mwaaahh .. sana nest bday ko jan p din kau ..',5
+'people look think strong.she handle it.do really know feel ?   ',1.5
+'today son turned  went chucky cheese logans dinner . awesome time . sometimes wish grow fast . miss time baby would fall asleep couch chest .',1.5
+'yay ! ! ! ! first round xams finally .. lfy seems life',6
+'life hard thing keep .',1
+'wow got ass beat   rounds managed win , still ca believe .',2.5
+'pressure . mind . tend well gun , however . next thought .. nails . need prettyfying . blech .',4
+'love least deserve , need .',1.5
+'world lost great man today , rip mr. elmore , never forgotten',1.5
+'fyi certain person .. want know something want kept secret get f  ck facebook .. ask kids knew get pissed know . ask get',5
+'man religion project killing never even heard shakers .',5.5
+'american idol season  star world love',1.5
+'thing facebook , facelibrary ? .. brotha get dewey decimal system ? happy',4.5
+'got finished studing civics final science test . school dance tommarow .',1.5
+'taking zpack . strange hungry ? eating everything sight !',5
+'wondering dogs look butt fart ? ? ?',4.5
+'kindergarten story tell  one little girls class asked morning everyone buying spirit pom pom , sell friday school , wanted one . told would bring money next week could get one . turned looked serious little face said , take debit cards ?  lol !   ',4.5
+'saw eclipse wed. night best movie seen summer , fat',1.5
+'wooo  days till craziness reaches whole new level ! ! love',6.5
+'bunking office staying home nothing rocks ! ! ! ! ! !',7.5
+'advance merry christmas sa lahat ng mga fb reryan',1.5
+'  without , one night alone , like year without baby    soundtrip usa ta bago magstudy   love love love',3
+'tired nothing day ! first ! lol',5
+'new year fast approaching .. let ready welcome  .. hope year better year us .. pray , pray , pray , , ..',3
+'dear friends , thank kind wishes . good birthday one could ripening age . sincerely wish best . best ,',1.5
+'great day wit happy great birthdayyy thankyouu everyone happy',4
+'thanks guys bday wishes .. happy',2.5
+'aaaaaaaaaaaaagggggggggghhhhhhhhhhhhhhhh ..',5
+'mondays potholes road life .',1.5
+'thanks bday wishes',1
+'got house hrs , going vegetative state taking cat wit',1.5
+'finished outline !',5
+'read one right .  .. hard find reliable cheap indicators saying contrarians likely right.    correlations people criticize thing people misunderstand thing necessarily instructive realize.  love disparate bits find me.  ',1.5
+'things finally looking good happy',3
+'getting ready go babe ..',2.5
+'hope wonderful day ! god bless',5
+'getting heart broken worst thing ever ! ! ! frown , sad , angry pouting',6.5
+'blast house dereon ! sasha baby , greatest !',5.5
+'omg ..  ! ! thank guys love',5.5
+'headed portland spend time hopefully find wrong stinkin  car .',2
+'annoying children must die',1.5
+'dreams country roads takes home',1.5
+'tired micro braids . someone please come help take ! ! ! another note , smiling ever since thankgiving . lot thankful .',5.5
+'dinner mommy  watched two movies ! !',6
+'wait tomorrow soccer game ! usa ! usa ! beat brazil !',6
+'sct rokkz .. strike ! ! ! lol .. ',6.5
+'okay learning schizophrenia',1
+'chances  highways indiana needed travel today , traveled  years , closed blizzard conditions ? ? nevertheless , ignored common sense drove right . still alive .',3.5
+' say well done celtics  ! ! ! ! ! ! ! ! ! ! !  teamceltics !',9
+'regrets taking unglam photos people took unglam photos .',1.5
+'birthday well spent happy . hope still chill . like status wars , hate randomly stopped .',3
+'ok urban dictionary meaning .. lol .. extremely attractive girl whos flirty personality curvacious figure keep coming back . typically brunette occasionally acts blonde . enjoys long relationships many close guy friends . often mistaken slut really . also super bitch get onto bad side ..   ',2.5
+'happy birthday ! big  !',6
+'todays nice cool day  ',2
+'ugh , finally got home . started work today  screaming kid got done work  dealing screaming twilight fans . bed time happy',3
+'counting last  minutes birthday bestie sleeping ! lots love everyone !',6
+'woke awesome hangover . thanks birthday wishes !',5
+'bleh .. mondays',2
+'got acting academic team captain quiz bowl , made happy . hermitage team came secondtolast , still loads fun .',1.5
+'ca wait see beautiful girlfriend today  ',3
+'santa coming ! santa coming !',5.5
+'dinner mom , grandma , birthday . hope fun !',5
+'watching dance ass , gave contestant dream meal last fatty meal . black girl ',1
+'get shitt',2.5
+'think arm fell ,  games  days ice good ! !',6
+'tooth today feeling sorry',1.5
+'happy teacher day ! laughing',5.5
+'hates able anything , hand . stiches sux ..',3
+'motion city soundtrack puts smile face   laughing',4
+'dance britney spears .',1.5
+'hiiiiii guys .. thanx wishes ! ! ! ! ! ! ! ! ! !',7.5
+'another week , another paycheck nice income nicer could spend .',1.5
+'well , biggest loser finally ! yay ! ! ! peanut butter eggs come ! , seriousness , lost  pounds unfortunately quite enough win !',6
+'thanks birthday wishes ya ! happy',6
+'saw paranormal activity yesterday awsome ! ! ! good thought amazingly real laughing !',6.5
+'depression overestimate underdeliverable . hope miss last part .',1.5
+'wow one days , way many dumb moments day . def . exceeded amount allowed even  .',2
+'umm woww .. ha txt meee happy',3
+'school , classroom , facebook . looks like going start using facebook lot . lol',2
+'happy friendships day ! love love love',5.5
+'work .. today .',2
+'people private concept take    elas pagam vocal act laura melo  cascais   djs funk ? !  residentes twin lx   bauhaus',3.5
+'! ! ! ! ! ! record conference ',7.5
+'work friday ! happy everyone !',5.5
+'true  god makes enemies foot stool ! happy told stop messing god child !',5.5
+'studying history test .. super duper tired',2.5
+'hey everyone jdrf  juvenile diabetes research foundation  walk cure coming . please help reach fund raising goal . figured   friends would achieve goal . follow link profile tab help . thanks !',5
+'hmmm . feeling summer break going something different laughing',3
+'trip mall karah total mess',1.5
+'happy turkey day everybody',1.5
+'ft strap going hole ! , thes people come ! makes  times well . sure glad took last  stands easy tellin whipstock would pointing !',5.5
+'feel better today ,   . still stopped . think sinus infection . oh joy ! ugh !',5.5
+'utter wench , ',2
+'moms know good product keep water kids eyes taking bath ? ? developed quite fear bath time ! !',5
+'good night ! thanks great birthday wishes ! love',5
+'happy home , needs drink .',1
+'champion match , need one win lose twice .. let',2.5
+'full moon time ..',1.5
+'teen mom  obnoxious .',1
+'bout put one air',1
+'love toes face',1.5
+'second chance ? ? ? ? ? ? ! ! ! !',7.5
+'thing conditional love . love either unconditional love   ',1.5
+'hate tennis racketts ! ! ! ! ! got hit eye today one gym ..',7
+'age  yrs graduated calling mommy calling   mom  .   mommy  babies.  ',1.5
+'car f     getting garage tuesday . laptop crashed get windows reinstalled , f   k bill gates microsoft . top raining . saturdays got ta love',4.5
+'alias hiatus .. poof !',4.5
+'eerie calm fills air right hurricane hits . school felt like today . strange .',1
+'interesting stuff ? ? ?',4
+'today pretty easy day . tomorrow thats another story . hope everyone better day tomorrow today . gudnite fb talk yall tomorrow .',1.5
+'day !',5.5
+'saw eclipse trailer .. incrayaublay  frech incredible  laughing',5
+'birthday today gettin fucked',2.5
+'b day concert house blues rockin ! ! !',6.5
+'gtg ! ! monday .. monday madness traffic ..',6
+'lakers modern warfare  get nap looking like good day .',2.5
+'happy diwali ! ! ! ! ! ! ! !',7.5
+'oh money .. pain ass .',2.5
+'lov listenin  lies wen know truth',2.5
+'going get friends back know happen',1.5
+'tired want go work tomorrow .',1
+'mountains love',1.5
+'wild thing totally looks like seth green',1.5
+'today turned  ! happy birthday happy',4.5
+'f   k update status ?',4
+'sick tired admired wish would die get fired drop label stop fables gon na able top name pigeon holdin  poppy sensations cop rotation rock  roll stations patience deal cocky caucasians',2.5
+'beige ! ! ! ! ! !',7
+'dun like rts , ',2.5
+'called fingers  never seen fing .. oh wait , go !',5
+'wonder trade clunker ? ? ? seems like right time ..',4
+'love haters ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !',8.5
+'thanx birthday wishes everyone ! great day , gon na even better evening ! .. dinner , drinks , dancing , karaoke .. etc .. get spend great people ! one wonderful girlfriend spoiling rotten already .. lol . thanx babe , love , greatest ! .. ! turning  isnt bad   .',5
+'wtf cheating game importance clean hit anybody could see that.you refs sorry sacks xxxx call play life depended it.when receiver catches play get hit football.it always pretty want pretty go watch balle sad crying ravens going start hurting colts refs stop cheating !',8.5
+'.. faucet puts water . needs settings hot cold water . like .. coke .. beer . yes ! ! ! beer ! ! faucet needs give beer , time want , temp , brand .. yes !  sigh  unfortunantly dream .',6.5
+'currently sooo tired days without enough sleep havin go work ai joke .. happy make amp energy drinks ',3
+'thanks everyone birthday wishes ! laughing',5
+'watching spirit stallion cimarron keep puting pause luckly ive seen  times love songsnshadow dragon',2
+'starting snow ..',1.5
+'feel like old school western movie , dam fra ! !',5.5
+'nobody world hv crystal clear heart becoz every one heart sum scratches scribled loved ones ..',3
+'beginning august , tigers usual second half season death spiral . turned today game  favor sox',1.5
+'thanks everyone birthday messages',1.5
+'great class hero journey . watched stars wars . makes good night .',1.5
+'well today better e cheeky , playful ected   tomorrow gon na better',2
+'tyred .. wanting go bed earliest . also missing bloemfontein friends .. two sleeps city roses ..',2
+'love new shoes ! ! !',6
+'girls like drano ..',2
+'fb family thanks bday wishes',1.5
+'feeling especially racist americans today fucked skins ! ! ignorance ! ! ! ! ! ! ! ! crying',9
+'hope ..',2
+'carnival louise tarron , dad jayden . running round jayden knackered jayden enjoyed bless .',1.5
+'like wish everyone happy valentines day',1.5
+'wanting wish husband happy birthday ! ! !',6.5
+'friend goin winter olympics',1.5
+'way cold anything stay house work computer ! ! !',6
+'love  ',1.5
+'little acts kindness add lifetime happiness love ',4.5
+'finished german project !',5
+'enjoyed family time stl . love , glad home wink smirk',4
+'life always lessons .. life school',2.5
+lol,2.5
+'sittin home lil man waiting take nap , nothin today hit',1.5
+'little boy today  four',1
+'thought mono entire year one time .. turns really bored',2
+'went roller blading  miles today ! little tiring havent gone rollerblading since middle school .. totally flew ditch lol',4.5
+'compo .',1.5
+'automobile man cosmetics woman goes analytical process buying  prof dutta sorry bansal simply loved copying cheeky , playful   ',2
+'eatin pizza , cought fire welding .. running pizza .. finally ',2.5
+'heart broken instrument works .',1
+'going work soon . life good !',5
+'boy oh boy getting .. going excursion adam parents today .. sure means hope taking woods kill ..   ',3.5
+'substitute  real thing .. oh yeah ! ! !',6
+' subscribers reached youtube thank support ! ! ! ! ! laughing',8.5
+'rafael van der vaart keen joining united .',1
+'rain , rain , go away come another day ..',2
+'happy navratras , , , , , , , ,god bless happiness , health luck',2
+'come back couple hors ill ya !',6
+'ready get home get snuggs .',1.5
+'done done done ! pack ..',5.5
+'thanx po sa greetings ..',2
+'watched ghost girlfriends past . really cute ! ! !',6
+'bd  wow thats old .',2.5
+'eng frown , sad , angry pouting ',2.5
+'pub missus last night , said , love you. said ',1.5
+'omfg freaking one knows anything building major perfect intervals ? ? ? ? ? buy supplying upper note',7.5
+'man ! love g ..  know well .  peace  love thats spirit ',5
+'team threesome ! vapires suck officaly god comedy confrim deny',4.5
+'mom absolutely greatest mom whole world ! ! sent flowers work today ! ! never flowers delivered work , ever ! ! got ta give credit sister neice helped pick . dad money came wallet . lol ! ! love family ! !',7
+'steve holt bastard , guy even know father , else know guy ?',3.5
+'love !',5
+'getting ready go snowboarding  ca wait !',5.5
+'things turn best make best way things turn',1.5
+'difference try triumph little umph.  ',1.5
+'write slamuel braza wall ? ? ? ? ? ? idk . , heyyy !',6.5
+'people stupid sh  every day believe okay , really one trampled many already . saying right whatever want long willing accept consequences. ohh well ',3.5
+'know place grass always greener',1.5
+'aparantly shortage colgate every body chuppzin',2
+'drinks cousin diane .. ! check back tomorrow beep . beep !',4.5
+helpn,1.5
+'rockin drums today bowling tonight .. gon na great day , thinks !',5
+'done ! ! ! !',6.5
+'yankees win ! ! ! !',8
+'tell pain , long bored',1.5
+'dreading stand hrs weekend looking forward seeing friday ! yay winning us tickets !',4.5
+'gon na buy leather jacket really dark glasses , gon na get left ear peirced , nose peirced , lip peircing  actually thats overkill cut  anyway theres nothing . ha ! ! !',4.5
+'friends .. first power party going place .. please come .. invited .. presence guest important .. regards love exceptional ..  happy',3.5
+'less two hours grandma surgery .',1.5
+'oh green lump putty found armpit one midsummer day',1.5
+'got back snowboarding , still struggling sit . wipeouts hurt .. lot . many thanks lending gear . works great kept nice toasty cold day slopes .',2
+'ca even think straight , tomoroow movein day .',1
+'wants day work ..',2
+'today last day states bit . china  real time  .',1.5
+'woo go paul octopus legend congrats chuckie laughing xx',3.5
+' chatt town  knoxville  fun times birthday ! ! , ',5.5
+'january  ,   happy  a.m. nemmc .. god said let born unto two parents .  years ago .. tonight  happy  looking miracle .',2.5
+'junior fever , cold , dry cough runny nose . worried concerned .  sigh ! ! ! ',5
+'already work .. normally waking . lol',3
+'need break free grip satan us say dose grip .',2
+'ev drink responsibily .. ! enjoy .. ! cheers .. !',5
+'hurray , maths left ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! time freak ! ! ! ! ! ! ! !',9
+'busy working north slope alaska beautiful diff . like never could ever see anywhere else . still miss family',1.5
+'see ! simple town competition ends  year marriage !',5
+'got class schedule . shop theroy , along reading strats , english , psychology , inter alg , biotecmic spanish',1
+'thanks everyone birthday wishes ! great bday !',5
+'airport . smells like old ppl frown , sad , angry pouting',2
+'hey everyone wished happy bday thanks much time send response  everyone thnx',2.5
+'ca exs die done ! ? ! ? ! ? lol .. seriously ! ! ! ! ! ! !',8
+'tomorrow brand new day attend service .pm . yeah ! feel excited attend saturday afternoon . happy',5
+'go usa ! !',5.5
+'got back rennissance festival minnesota brother . videos .. likely blackmailing shortly facebook myspace .. ill posting picsvids least links become available .',2
+'stop sending friend suggestions driving crazy cheeky , playful',4.5
+'.. want money back ..',2.5
+'thoughts new year  god wo ask many promotions received , ask promoted others .',2.5
+'fucking great weekend . fun friends absolutely nothing .',3
+'phone tyler bascle happy love',3.5
+'oh son .. see said cellular regeneration gon na hard e cheeky , playful lain .. ',3.5
+'fucking internet slow !',5.5
+'studying .. work ..',2
+'happy making wicked movie  ! ! ! ! ! ! !   ',7.5
+'went lol lmao lmmfao lmmmaaigjdhfffkfkfgigigg .. masters code tacticianhackeretc ..',3.5
+'hi peoples',1.5
+'facebook got gorgeous .',2
+'halloween party tonight ! ! !',6
+'handle stories ,  haha',3
+'offering pc laptop reformat , troble shooting , research typing job ! !',5.5
+'phhheewwww , finally found place ! !',5.5
+nite,1
+'ready brand new year ! ca wait visit second family el paso next week !',5.5
+'good night !',4.5
+'made mind .. time new beginning .. living life , yeah new day coming .. getting ready change yes , .. got ta keep running .. got ta better way yes , happy happy',4
+'funny hit thirty get allergies , wrinkles , saggy boobs , etc .. drugs  years damn thing happens ! ! ! ? ? ? ? ?',6.5
+'gim siomai babeeeh ..',2
+'let quote lategreat colonel sanders , said .. drunk taste chicken.  ',1.5
+'new crazy family  daddy limbad mommy inez kk ryan kk joko meeee dd fiona dd vickshiong dd steven dd joshua',1.5
+'took lunch movie birthday  saw zombieland awesome !  mom nana took us ezell dinner birthday . good day , even though feels weird  .',3.5
+'thanks birthday wishes . dinner chili jonesboro cheesecake desert .. bad birthday .',2.5
+'ya best fathers day ever .. luv daddy .. gud nite facebook ..',2.5
+'gon na reorder mw someone else ebay',1
+'comes pass test , kindergarten best',1.5
+'decided kid called , ..',2.5
+'search deep mind , answers find , meet special someone , soul becomes undone , bliss pure , could dreamed nothing , trek end , find depend . like original poem cheeky , playful seriously ..',2
+'happy birthday love ya hope great day well leaast try  bye',4
+'says , every turkey dies',1.5
+'three wonderful years fatherhood',1
+'interested joining soul society  let know . thank .',1
+'best nap ever .',1
+'soothing jams penetrating eardrums .',1
+'mommy reach , mommy reach , mommy reach . wonder bring .',1
+'damn nfl draft ! told .yr old draft tonight , scared death draft coming room ..',5
+'tired .. tired ..',2
+'dad giving speech flag raising today . love family . happy',3
+'cousin baby joining us sometime today ! new little girl family .',5
+'life challenge . path take either lead great adventures great emptiness .. ever way look , choice ! get ! ! !',5
+'laying wondering .. hell awake ?  . ',3
+'argh .. rain annoying .. rather full thunderstorm , beautiful sunny .. ehh maybe grumpy . please call grouch happy',3.5
+'gon na make transition veganism !',5.5
+'secret happiness freedom , secret freedom courage , freedom ! ! ! ! ! ! !',7.5
+'trying take mind fact heart hurting . watching episodes martin mind cloudy .',2
+'miss best friend ..',1.5
+'happy finally got converse happy',2.5
+' sigh .. suck ! ! . .. people trust anymore .. end believing crap .. equation always ends slaps anger wrong person ? ? .. nice .. sleepy .. venting fb .. frown , sad , angry pouting skeptical , annoyed , undecided , uneasy hesitant . sad crying',5
+'one final go',1
+'mandatory reminder cnn  nasa reports nxt  months , earth gets hotter  degrees now.himalayang glaciers melting  rapid rate.our climate changing drastically  getting worst.we must help fight global warming ff steps.plant trees .do waste water .use cloth bag burn plastic.please copy  paste wall.do share.save earth .',4
+'storm comin supposed pretty big . friends family talkin bout hail heavy rain , plus wind . usually weather patterns home town area california carry right ogden slc areas . get ready ! hit hard , meteorologist . like ever right either lol happy',4
+'waiting lab class start , trying fall asleep .. cat keeps awake nights , really bad last night . keeps , next week bringing class .. cheeky , playful',3
+' years old today .. big deal ppl',2.5
+'best part cooking food get taste everyone else . anyone breaks rule subject getting hit spatula .',2.5
+'make work',1.5
+'last day x games . kids today sick !',5.5
+'new house trying paint , fun stuff',1.5
+'loving boyfriend said front everyone .. know one ! ! ! ! ! !',7.5
+'life ending one minute time .',2.5
+'heard good joke today womans day magazine . wake lady gaga . poke face  poker face  found funny happy',2.5
+'uhhh part  ? ? ?',3
+'hoping cowboys hold !',5
+'tomorrow  school usual ,  hour delay cancelled ? please normal week !',5
+'glad talked mom earlier . saved life real lol . also  side note  name jesus , jehova , demons tremble mere mention name  seek approval aim please u. thanks happy',3
+'thank kind birthday wishes ! lucky wonderful family friends . , excuse date tom brady  minutes wink smirk',4.5
+'says  lot happen coffee ! ! ! ! love love',7
+'anybody fancy lookin beautiful ickle angels whole weekend sometime soon ? ?',3.5
+'omg friday yet ! !',6
+'one mornings got ta restrain feet busting dance public . easy find , lil asian girl blaring music coming ears bounce step ..',2.5
+'wishing everyone happy new year . may friendships grow closer , love deepen happiness never fade . may year better last .',1.5
+'know name , learn deep sink  rapture lies , wait beyond brink',1.5
+'feel like giving recieving million hugs . . .',2
+'kg .. blame ibiza ..',2
+'happy .. .. happy teams ! shoot ! happy',5
+'enter gates thanksgiving mouth , making plus  today , glory father son holy spirit .. amen',4
+'.. know good time include learning growing , joy creating succeeding ..',1.5
+'need nap !',4.5
+'ps freakin awesome ! ? ! ? ! ?',7
+'touched many wishes . thank wishes . may god bless many happiness good health .',2.5
+'bored .. ! ! ! .. ',6.5
+'thank everyone wishing happy birthday . proud reached another year , many great friends around world !',5
+'oh yea , haiti .',1.5
+'work much fun spending week crowbar hotel ! ! ! ! love kids amazing ca deny fact mine look ! ! ! going heart breakers bad one always getting heart broken ! ! ! ! well got  months clean tomorrow hey handle shit well clean ! ! !',7
+'try shut effin mouth sometimes . sometimes . mema ah . memasabi lang . hahahaha',4.5
+', please hurry come . mommy fit inbetween counter refriderator',1.5
+', declare war math ! going fucker ! ! pissed wrong brain gon na kick ass hard gon na shit ears piss nose ! !',8
+'time change .',1.5
+'booooooored ! ppl talk thing ! !',5
+'thanks  wishes ! ! !',5.5
+'bored mind',1
+'change fb back old way .. go left side menu , click , drag status update top , click status update back old way . thanks , ! !',5
+'getting better .. hope ..  smiles faintly crowd onlookers ',2.5
+'firing , bullets , happened bahrain ..',2
+'ordinary .. really think .. love true .. common destiny .. meant ..   .. like perfect scene movie screen .. dream come true .. suited perfectly .. eternity ..   .. everyday ! ! need even  night times .. theres way could ever let chu goooo .. even wanted tooo .. everyday live try best give ',3.5
+'papers showings number   sold ! ! really want come reserve ticket ',5
+' get waking vegas    .',1.5
+'wisdom teeth cut tuesday , hoping gon na hurt bad . skeptical , annoyed , undecided , uneasy hesitant',2
+'ok yes bdo show algood , got catch like everyone nearly get sunburn skeptical , annoyed , undecided , uneasy hesitant',2
+'woah week holiday .. things gon na .. muahhahahahaha',3.5
+'congrats symantec ! yeh maggi encrypted hain kya ?',5
+'hook horns ! !   ! ! ! went u.t . game austin fam .. next time think may tailgate .. pondering ..',5.5
+'whomever invented basement dragged street shot .. repeatedly .. revived , allowed recover .. shot face .',3.5
+'strange dreams . mean really .',3
+'somebody please shoot already',2.5
+'got job ! ! ! ! ! ! ! start tomorrow ! ! !',8.5
+'well great night , got took tree , son got bath , wife couple devotions , played game zadok bath ate went work god good .',1.5
+'mah birthday ! ! ! ! !',6.5
+'ok seriously , heat go crap calling july ? !',6.5
+'seriously , sure level boredom must cause least like , cancer something .',3
+'get smart one hell movie .. must watch ..   ',3.5
+'onli fb fter many dayzzzzzzzz ! ! ! ! !',7.5
+'got hair cut .. ahhh big puff gone ! ! ! ! ! ! ! ! ! !',8.5
+'want ice cream pretzels topping . weird ? ?',3.5
+'making toast pm',1
+'mention getting f     old ? ? ?',4.5
+'fun today ! get ready e cheeky , playful lore south ! ! cheeky , playful',6
+'sooo tired ca seem sleep bugger',2
+'okay , exhausted , got home form work  hrs later , getting old shit . feel like old lady , look bright side .. kids today . thank god grandma live  min away . time catch sleep time hubby . happy',4
+'love always find way !',5.5
+'merry christmas !',5
+'stoopid coffee pot died today .. crappy way start week .. ! !',5.5
+'love cbrrr',1.5
+'glad nice outside today  ',2.5
+'heavy rain   leaks   call work order   fix   heavy rain   leaks ? ! ?  ca wait move two months ..   ',5
+'gives presents presence alone',1.5
+'last three days quite epic .. tommorow looks sweet well . first , sleep .',2.5
+'two things .. looked wall long time .. thanks everyone birthday wishes kind words .. really means lot . happy second , today would best friend birthday . died almost  years ago rest peace becca . always heart .',2.5
+'free living life fearless ..',2.5
+'thinks facebook got hacked frown , sad , angry pouting',2
+'watching truck racing w bf . pretty cool say',1.5
+'well , least today . go irish ! ! !',7
+'sometimes need strong , admit weak .',1.5
+'quesadillas  even spell ',1
+'finished rereading entire harry potter series . entirely sure next week ..',1.5
+' weeks today new house .. yeah ! ! lots work ahead us ! ! !',6
+'.. finally got friggin facebook . woohoo .',2
+'true friend laughs stories even good',1.5
+' filled many people know gym etiquette .',1.5
+'chowdhury .',1
+'heard talk , much want , never nobody put . keep cause done .',1.5
+'one needs contact weekend b xbox got ta set two weeks vacation . hopefully vegas falls ,  need   worked  day work weeks past  months str   peace ! ! ! !',5.5
+'ah , like cds . oh bfa ? must afternoon ? frown , sad , angry pouting',2.5
+'got done watching fireworks',1
+'graduating friday ! call make !',5.5
+'thanks        ! ! ! , ',6.5
+'fish water silent',1.5
+'mountain biking  personal version hell . god must ironic mood born .',2
+'new layout sucks hate think going get rid keep changing',3
+'tgif ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !',9
+'ever danced devil pale moonlight ? ? ?',3.5
+'got much tomorrow got ta get check , doctors , homework . busy busy busy lol',2
+'nice full unlimited internet access .',1.5
+'sitting husband .. sadly thats ever anymore lol',2.5
+'holidays laughing laughing',5.5
+'god glory .',1.5
+'hello sweetheart ! ! promise god , even realize called ! whats bro ?',5.5
+'dude ! really ? cancelled . grrr ..',5.5
+'ever looked picture bring tears bc instant think see thier eyes ..',2.5
+'chelsea winning  winning league ! ! nxt year , mon utd ! ! !',6.5
+'got car back ! ! happy',5.5
+'.. home stayin warm cozy .. btw sims  addictive ..',2
+'still jorg stacey enjoying chillin family !',5.5
+'shit quit',2.5
+'studying colonialism emily lost yiying letter. yiying look',2.5
+'god real love ! ! !',6.5
+'wow behind facebook . lol sad ?',2
+'much left !',5.5
+'bury gone ? teach ? soon belong , time disappear ..',2.5
+'tummy keeps hurting ,  , ! !',5.5
+'made amazing home made calzones mmmmmmm .. nice loving cook !',5
+'origin leap year , fyi interested ..',2
+'taxes done ! ! happy',5.5
+'brothersister week ! ! ! ! ! ! everyone change profile pic picture brother sister ! picture young current one ! copy paste , lets see many people love siblings ! ! ! !',6.5
+'olly looks like thunder tonight , simon called entertainment genius !',5
+'excited see family ..',2
+'back vegas ..',1.5
+'thinks people need told bitch hobby career !',5
+'making stickers ! ! !',5.5
+'evaluation quarter hour . wish luck happy',2.5
+'happy birthday',1.5
+' weeks  pages literature condition school systems read . wow ! public school systems need help . mean knew needed help . never realized much research backing already believed .  , sympathies  conducting interview  ccsd costaff , office superintendant  friday .. wish luck',3
+'hi ! mzantsi plz give sex tips !',5
+'saw guy acting like swag full attack fubu  fat ugly black  uncomfortable  dwl ! rite chenees beckford ? lmao !',6.5
+'leaving milwaukee month , wish luck . fresh start , everything ever wanted .',2.5
+'horseshoe bricks r done plz send things .',1.5
+'bored would love  go',2
+'citer fair sold kings island apollo management ! ! ! ! ! ! ! ! ! ! ! ! ! !',8
+'french blows .. specially french quizzes .',3
+'go grown ! ! thailand tonight',5.5
+'ha .. ?',3
+'one week guitars , top bar top bar back , shaby',1.5
+'friendship like peeing pants  everyone see feel warmth .',1.5
+'hold big picture .',1.5
+'frown , sad , angry pouting ..  .. hopper ..  gratitude beyond words .',2.5
+'thanks wished happy birthday ! much appreciated ! !',5.5
+'joreo  xboxlive gamertag . see frontlines',1
+'says  black bears everywhere ! please hike groups ! hiking alone came face face huge bear . tip  run yell bear  come . walk away slowly .',5
+'finish reading young warriors v.s . reid book read seventh grade must proud , ',2
+'started school tuesday got hit frankenstien virus freakin sick things need test tomorrow gon na study evn breathe',2.5
+'well survived trail clinic sprit sooo good proud glad spook easy mind flags sacks dragging anyone rides know talking payton forest good ! ! ! ! trails kinda blah real extreme fun ! ! !',6
+'bad news damage eye caused become incredibly photosensitive , need wear eyepatch . good news look fucking awesome !',5
+'ok selling ipod touch   gen  g  rd gen  g  goodies come original boxes really good condition need shoot bid happy',1.5
+'wants know facebook wants know whats mind ? ? ? hmmm facebook worried ! cheeky , playful',5
+'end  ,  ! send answer  honest , matter ',5.5
+'optimist proclaims live best possible worlds , pessimist fears true .',1.5
+'profile picture took dark side moon concert , soon wall ,  days !',5
+'measured weight put  kilos last month xd getting fater .. start exercising cheeky , playful',2.5
+'thank guys b day wishes',1.5
+'putting one foot front .. like dragging one foot front .',2.5
+'become detached mentally concentrate helping people difficulties , able cope effectively . somehow , act selfgiving personal powerreleasing factor .  pisces man ',1
+' year older got thrown pool .. haha .. thx  birthday wishes thankz much  surprise birthday ! ! ! enjoyed lot joyful',5.5
+'woke jail together .. using four words .. would say ? copy paste status see funny  interesting  things friends say .  make comment , got ta put status . fair fair ',2.5
+'first romance ..',2
+'need  sleep ',1.5
+'want , dnt want ya happy',2
+'new locks , new keys , new lashes , night , think time go little fun happy',2
+'pfft . like got none . drunk b lose shoe house .',2.5
+'found .. flightless bird , grounded , bleeding lost , american mouth ..',2
+'going school .',1.5
+'thanks bday wishes !',5
+'hey peeps  ssp ',1.5
+'wat , wat ..',1.5
+'received favorite email semester',1
+poo,1
+'poor sweet innocent thing , dry eyes testify . know live break . deny . sweet sacrifice .. ',1.5
+' tickets lancer hockey game sat',1
+'happy birthday ! two tremendously wonderful musicians indeed deserve celebration .',5.5
+'tyty ! wish ya da best , fab day night ! xd cheerio !',5.5
+'congratulations pc grad , joined faternity  innocent  .',1.5
+'one door closes',1
+'missing sarah tuesday',1
+'job hunting much better job months frustrating responses keep getting sorry openings time keep praying get something soon.  ',1.5
+'feels like tearin someone ass',2.5
+'ok , change request . good morning facebook . hope last days good mine . get make happen . happy',2.5
+'long day well worth must say !',5
+'took son toys tv room .. hundredth time ! , left nothing bed dresser . bad time , never learn behave ? !',6.5
+'forever  alma , alma mater . home mountaineers . sing thy honor , everlasting years . alma , alma mater . pledge song .. hail , hail alma mater , west virginia .',3
+'finished catching   seasons met mother legen  wait  dary !',5.5
+'room improvement  anything dislike unhappy something think lack character , please feel free tell . would appreciate comment negative sides definitely best change improve der . happy sad crying',2
+'comes point life realize  matters , never , wo anymore .. always . .. , worry people past , reason make future',2.5
+'running errands ! oh joy ! !',6
+'received email walmart informing miss . thanks walmart . miss back , appreciate sentiment .',1.5
+'wipe intellect door , bring warm imagination leave slice , apparation',1.5
+'md psychiatry .. yipppeee ! ! ! ! ! !',6.5
+'got sick using limewire anyone know good site program download muxic surprised',2.5
+'ca wait see mommie daddy march happy happy happy happy happy happy',4.5
+'thank everyone bday wishes',1.5
+'say craziest little things ! love',5.5
+'snow ? ?',3.5
+'put status know someone suffers tottenham fan . tottenham fan real disorder taken seriously . still known cure sympathy help . raise awareness .   tottenham fans repost know copy paste . join us , keep tottenham fans away lives .. ever .. laughing',2
+'looks like going eda tonight .',1.5
+'headache ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !',9
+'got great wifey ! call duty black ops came today made sure got copy already ! ! hell yeah . love boo !',5.5
+'hi thank sooo much bday wishes blessed sox ! remembered ! !',5.5
+'hard find honest friends ?   ',2
+'well , make chief , longer lpo  apparently arrogant , among things  , least got orders wanted .  , come .. get living next  months feels like left armpit world .',2.5
+'life make .. remember make rash decisions !',5
+'two new blackened dawn tshirts designed .. brootal . also appears yet another new guitar added family .. brings  kids thats case .',2
+'hart panteth water brooks',1
+'good weather man got wrong , thank god ! ! ! ! !',6.5
+'burp gag cough ! ! birthday shannigans come much deserved end .. frown , sad , angry pouting',5
+'grrrrrrrrrrrrrr !',5
+'know goin  movies anymore skeptical , annoyed , undecided , uneasy hesitant',2
+'done right .. hate feeling lost used control',3
+'oohh ! ! ! smooth ! ! lakers baby .. twofour day everyday',6
+'stevie wonder kind week . laughing',3
+'gon na afk days safe friends sorry got touch',1.5
+'schizophrenia test skeptical , annoyed , undecided , uneasy hesitant',2
+'gud luck  pmr candidates ! ! ! ! ! ! ! ! ! ! !',7
+' days left  weeks go break ! break ! break !',5
+'cat .',1
+'well surgery knee believe hurts , lol . going back work around first , maybe sooner .',2
+love,1
+'fina go dis party tallahassee',1.5
+'bored mind',3
+'understand hullabaloo language maharashtra ? ? ? afterall smile lexicon .. ?',3.5
+'starting school next month',1
+'loves purse got birthday . happy thank goodness , old one shreds .. literally .',2.5
+'double dog dare like status .',3.5
+'facebook ..   p',2.5
+'lets go steelers',1.5
+'missin baby love , , beddd   class work ..',3
+'says serious sincere  ',1.5
+'got cops outside game tv watch',1
+'hurting ..',2
+'going take neice georgia hudson ice skating.here goes wet sore butt falling .',1.5
+'every seems like pointless repetitive cycle never ends must go . want something happen make seem like point .',1.5
+'still beleive scotland lost wales',1.5
+'say ever going dq supposed come inside take drive .. happy',2.5
+' today !',5
+'fayetteville . flew raleighdurham airport , drive knew getting close started seeing fences around used car dealerships . pawn shops payday loan places dead giveaways . ditto strip clubs . militaryveteran guys know talking .',1.5
+'hates waking ',2
+'hello . hope everyone good day .',1.5
+'alone . ca sleep . thinking much ..',2
+'crappy day trick treat well fun letting trin watch carrie wait !',5
+'busy scoring online .',1.5
+'keepin head high doin',1.5
+'looking forward .',1
+'currently wanting take class draw naked models . educational . hope neat tidy . x ',2.5
+'must hard sorry put sorry helping hand lend wish better friend tell sorry  gesture , look , touch ? never realized hurt much sorry hurt mean sorry hurt , regret , . , regret',2
+'  l  p ',1.5
+'chillen wit mi gurlz . last nite watched set . thts mi shyt . man much fun . well nite two .',2
+'nigga ray still mean yrs league !',5.5
+'thinking early .. getting ready go mom yard sale happy',3.5
+'finally got internet running new place , thank fond birthday wishes !',5.5
+' months jobless , homeless happy .',1.5
+'hate fucking snow',3.5
+'whenever need anything , get . know get know needs without even yet part life .',4.5
+'shot mommies happy mothers day ! ! hope everyone yall blessed wonderful day',6.5
+'snowing hiram looks like stickin.',2.5
+'much progress weekend . hoping make appearance soon !',5
+'finals sadness',2
+'fixing best weekend world',1
+'bought phone happy',2
+'voodoo fest waz awesomeness ! !',7.5
+'exhausted back weak still yesterday tat ..',2.5
+'bahamas ! ! ! nice ! ! !',7.5
+'eid greetings wonderful friends ..',5
+'wer pox lucky today da bastards.united wil bak top time ! !',5.5
+'glad internet definitely fixed . thanks !',4.5
+'omfg ! ! ! ? simone ? well ruined sunday',7
+'coo .. friday night headin club laterz keepin warm ..',3
+'go white good things ! !',5.5
+'lol got suspendid',2.5
+'wet hard',2.5
+'last day ',1
+'thank everyone great birthday wishes . wonderful evening . god bless !',5
+'trying school uniforms xd feels weird wearing sadness',3
+'ok ppl reelasing flo rida  right roung  tribo elctro rmx  today .. watch space ! ! !',6.5
+'seriously deal ..',2.5
+'lalala good day today happy text meeee ',3
+'ok  scream , take secnd breathe ..  deep breath  hey , der .. cn fl legs tremblin  fl da sweat drippn frm chest den lyk ohohoh bby dnt stp b lyk noiwo ima tke  da top ..   , ',2
+'hi mr. passed restaurant city  ',2
+' cars drive yay ..',2.5
+'played mass effect  beer hand weekend ',1.5
+'wait december  see new man ! ! yay ! ! !',7
+'never give',1
+'anyone wondering calling texting back , blackberry died saturday night .. hopefully battery !',4
+'decided play along wayback week picture thing.  ',1.5
+'maybe subconcious make waffles .  pink spider ',1.5
+'wants see everyone !',5
+'saved baby bird dog . good deed day , check .',1.5
+'feeling much better today .',1.5
+'madly love tory seeley ! ! ! love',6.5
+'thanks everyone birthday wishes another year good thing blessed many wonderful people life love all.p.s tamika birthday baby great gift thanks much love even colts fans lol',2
+'exciting get new washer , exciting clean inch water flooded utility room , kitchen , dining room ! thanks installing washer wrong ! ! !',7
+'bored life want go something',1
+'trying decide   gotten birthday go towards bills actually buy something . sure remembers anymore .',1.5
+'crying laughing hard , assistant kills stories .. marshmallow puff ? really , really ?',4
+'rollercoaster ..',2
+'kudos mom ! ! really happy something good finally come way ! ! love ! !',6.5
+'happy new year everyone ! xox',5.5
+'going  transplant appointment goes . feeling peachy horrid knowing long drive  thing .. although need  know antibiotics  take  get teeth worked on.last time med work went septic  fun  also eye appt friday.i  ly wt neat new glasses.well let see lung studies show .. lil scare cheeky , playful ',3
+'hopes mom feels better soon .. broke arm church today . let lesson everyone going mass weekdays !',4.5
+'gudnyt everybody',1
+'become huge fan delete option matrix controls mathcad . makes simplifying pesky stiffness matrices lot faster . assuming one deletes correct rows columns.  ',1
+'new jobs good .. guess',2
+'reading siddhartha',1
+'heart broken sister . husband died today . total mess , help get . strong enough . maybe tell enough , come true .',1.5
+'happy valentine day ..',2
+'winning moment fr wat .. ! ! !   ',4
+'thanks everyone',1
+'merry christmas !',5
+'decorating house xmas tom fun ! !',5.5
+'thank much prayers support ! great back home ! trip amazing alot good done . one credit , jesus christ . glory !',6
+'watchhin pregency pact',1
+'making collage .',1
+'aunt teaching make fried potatoz .. yum !',4.5
+'p poke  ever crush .   like  status find attractive .   message  everwanted date    comment  good memories   let see brave enough copy paste status ..   ',2.5
+'sometimes got let everything go  purge . unhappy anything . . . whatever bringing , get rid . find free , true creativity , true self comes .',2
+'thank much lovely wishes guys ! ! ! ! happy kiss',6.5
+'chunk  sixteen thritytwo . ? year ? mouth ',1.5
+'watching fantacy factory resting long day .',1
+'ok .. guess relatively new event scheduling thing .. could figure facebook event scheduler , tried evite .. feel free respond either think future updates facebook events page .',2.5
+'someone remind upload photo two',1
+'bengaluru come happy',3.5
+'tune . radio tomoro hear mine aqils show',1
+'well final fantasy xi servers shutdown least week due earthquakes ,  understand completely  wtf going ? surprise',3.5
+'never hear anybody scream stand',1.5
+'stayed way late last night .. lot work get done today frown , sad , angry pouting',2.5
+'gettin ready work soon lookin forward .',1.5
+'damn finally got caught sleep , went lil overboard . oh well !',4
+'damn smoked vap oh shit lol',2.5
+'listen heart',1
+'thank girl went bday weekend blast love',2.5
+'saved man today . look word different . would born . world pray fo day . may god bless .',1.5
+'loves mom ! proud say thank moms helping great person today .. please copy paste profile ! e cheeky , playful ect see many times page ! people longer moms appreciate !  still say thanks love . ',5.5
+'thanks guys ,  milestone age xd well least awesome number',2.5
+'world small lost . live life , let life kill !',5
+'wishes could gone funeral ! frown , sad , angry pouting',5.5
+'looking  new tennis racket',1.5
+'bored wat ? ?',3
+'damn ! forgot daylight savings ! ! ! ! ! !',7
+'jury duty .',1
+'hanging .. dreading work .. missing ! ! love much ! !',5.5
+'thinks dick needs get pedestal , ',4
+'yep .. yep .',1.5
+'like beard',1
+'tommorow going fucking amazing . let say involves ps , black ops , mr. holbrook , fifth period , school . bunch kids .',3
+'great , ill. fate conspiring bastard .',2.5
+'work wed. night . . sorry church gang nothing . .',2
+'bad wolf . create . take words .. scatter , time space . message , lead .',2.5
+'isa feeling sick woohoo ! lol',3.5
+'loves hubby singing laughing',2
+'nice day full adventures manchester happy .. hard life sometimes happy   ',3
+'right root manning left . go colts ! !',6.5
+'woke nice nap.about go moms hair.got get back et sleep well rested big day tomrrow.to girls great day marrow.love yall ! ! ! ! !',6
+'good morning w head ache .',1
+'comes start every sleepless night ..   ',2
+'going make horror movie heros night .',1
+'.. life fairytale .. wonderful fairytale .. ',2
+'hate spam frown , sad , angry pouting',1.5
+'marrey christmas ! hope everyone astounding day , gets tons loot ! ! !',6.5
+'working five days week take bath five days , friends laughing . way care bible says nothings sabath deed nothing watch tomorrow morning go work . laugh wo take bath',2
+'feeling like bird sitting high happy',2
+'merry christmas',1.5
+'might flu ! ! yay   ugh ! ! !',6.5
+'guess whos back yeah da   dj facebook hahaha enjoy fam ! ! ! ! ! !',7.5
+'poor abraham lincoln bad barack obama ca trade places . anti obama hate guy . f   obama biggest fan rfm .',4.5
+'way beautiful popular sick .. fml',2.5
+'bridal shop ! ! happy',5.5
+'look mate found google earth laughing go go street view rugdeveien  ,  bergen , hordaland , norway',2.5
+'sudden , powerful  wife would describe differently  need completely overhaul house , clean every nook cranny , completely reorganize everything sight ?',2
+'helping cafe  di luna move new spot rd herr . best coffee city .. dwelling negativity contributes power . putting inspiration , imagination skills test ..',2.5
+'may need little drink jazz bar',1
+'never lost .. , let win .. , reward .. , grab hold heart ..',2.5
+'goddamnit people , sale , sell . jesus christ ',2
+'hey guys step mom challenged . dollars clean cats litter box gary think name . well almost died back smelt rotted turd ever want ot forgot .',2
+'water teaches us acceptance .. let emotions flow like water ..',2.5
+'teaching chito skip cle remorse ..',2
+'busy project .. time end semester ..',2
+'missing sum wen r alone affection . , thinking sum even wen r busy called real affection ..',2.5
+'went saw deathly hallows , great movie ! ! !',6
+'heading see movie sweetie , anything good ?',2
+'love like fine wine either savor sips create long enjoyable relationships chug glass glass till end drunk alone',1.5
+'love love blind .. sees mind .. according cmz .. true ? love',3
+'ca fly , wings work get high feelings ai hurt fuck world , ask shit dead gone still quit .',2.5
+'bored .. anyone care easing boredom ? ? ?',3
+'offiicially longer beaverton . good know . internet peace everyone',1
+'needs drink , asap ! ! ! ! ! ! !',8.5
+'awww , thanks ya ! thats real sweet  ! may moment sentimentality , made xtra special . thanks ! happy',5.5
+' points new profilepick  look sexy dddddrawn love coloured without permission meeeeeeeee',4
+'let commit perfect crime .. steal heart steal mine',3.5
+'add ginger tea  list things burned attempting cook , might top hard boiled eggs  sure .',1.5
+'wan na hang . holla atcha boy .',3.5
+'light headed .',1
+'feel wind change ..',2
+'ca change direction wind , adjust sails always reach destination .',1.5
+'looking something weekend',1
+'blessed baby boy today ..',2
+'enjoying girls dogs immensely ! dwts great show ready bristol go !',5
+'laper ..',2
+'poor fourlegged daughter getting teeth cleaned possibly pulled . hell get old !',5.5
+'listening dream theater .. amazing .. think josh ballard ever wrong says somthings good.  ',2.5
+'feel like buying google nexus one ! !',5
+'took urgent care . broken thumb sledding . something telling keep hands inside sled register ..',2.5
+'going bed .. looking forward tommorrow',2
+'would like beating unicorn death bag full rainbows  ',1.5
+'oh , love day work .',2
+'sometimes person really need one think wanted. unknown .. think one second . lol  ',2.5
+crocs,1
+' friends even fb whole day , kinda tight',1
+'could wanted birthdai different  chill take second sit back c witch way life going , itz going well',1.5
+'wish snow outside could skate',1
+'jager bomb saturday headed steel horse !',5
+'river cuts rock , power consistency . never lose hope  keep walking towards target !',4.5
+'   year completion',1.5
+'pumped back school ca wait debate political ideologies inquisitive minds !',5
+'need someone text !',4.5
+'posting pictures fun wild time israel soon got developed .',2
+'brother wantz  play snow aunt nina .. awww said like snow .. nevermind bean ..',2
+'threeo looks amazing happy',2.5
+' happy  tired nose searing pain ! !',6
+'rd overall k fanball fantasy football .. sure win ,  points away decent pay day .',2.5
+'heading town , going throw something , hopefully wo regret anyone girls esp . boys wana meet half   k thinkit thereabouts , feel free , putting . , mad , going bender putting bored people near dublin city centre ! ! ! ! please tell',5.5
+'another day going',1
+'orientation awesome fuck haha fun . met new people , reunited old people , got lot free stuff laughing',3
+'realizes people create atmosphere chinese new year , people misses . singapore .',1.5
+'happy great bday week ! ! ! thanks everyone !',6.5
+'bored .. like picture , bear  gave . call slushie !',5.5
+' . . sing .. hapy b.day , hapy b.day ..  yrs old ! !',5.5
+'let fill heart joy laughter . togetherness , well . whenever need , . protect , unselfish love respects .',1.5
+'fun times coming saturday .. bday mario .. square ! ! !',6
+'life gets better happy',2.5
+'happy dasara ..',3.5
+'sumtyms love jaz enaf .. haha',2.5
+'well birthday  days sober ..',2
+'olive garden jonesboro going open home frown , sad , angry pouting oh well , settle outback .',2
+'stumbled across , seemed appropriate  children coming maturity amaze us magic hearts',1.5
+'completely honest  hours .. ask question  inbox  . question , matter crazy , stupid . ulterior motive , full honesty , dare put text status see questions get ! know want take advantage . fun',4
+waiting,1
+'wet dogs smell',1
+'sensitive ..',2
+'approx , people bought theyre last beer night',1
+'million times better common sense without education education without common sense ..',1.5
+'better day today much better.feeling better nice day ! !',6
+'kicked neighbour elevator coz thats roll !',4.5
+'today snowed',1
+'farmvill  needs horseshoes nails ? ? ?',3.5
+rawr,1.5
+'.. whatever give woman',1.5
+'happy thanksgiving everybody',1.5
+'homeeeee timeeeee whoooooooooooooo haaha',4
+'waiting things want life seem take longest work ?',1.5
+'wants go back school',1
+'facing one difficult decisions ever ! job offers  dc paris !',5
+'existance begins consciousness emerges .',1.5
+' today ! know people thought turning  .. look old .',5
+'honeymoon travels ltd says .. know honeymoon good ..   wait  hr baggage claim   drive slow blind turn means nothing driver .   steep road driver informs tht car pickup problem .   reach  hours late destination.  ',2
+rock,2
+'yeheyyy .. bohol already !',4.5
+'smoking . day  .',1.5
+' snow ! ! ! ca even open door ..',6
+'family fuckin crazy .. know whats wrong maybe got dropped head babies kinda e cheeky , playful lains funny lookin heads lmfao ..',3.5
+'hey , whatever chip got fried anys numbers , would like much mind commenting bellow ! thanks ',4.5
+'bst gmt .. resetting clock',3.5
+' million guns us ,  million cars . annually , roughly , people die car accidents , , people die guns  half suicides  . anyone trying ban cars ?',2
+'thank everybody happy birthday new year .. sorry taken reply , love hope great beginning new year also .. cuzzy moved never forgotten love forever',3
+'never thought could wrong twice ..',2.5
+' l sta . rosa laguna press conference',1.5
+'life short complain keep head make sure got ta',1.5
+'gaaaaaaaahhhhhh ! ! ! ! !',8.5
+'sorry texas fans sec much handle',1.5
+'got gun pulled last night',1
+'kids grandma weekend . want homework .',1.5
+'yep , still hate watching football ! ! !',6
+'. ct',1.5
+'watchin acls . love baseball .',1
+'got boxes unpacked missing ptc',1
+'wants get video aircraft carrier sinking transformers . want email dad evil devilish',1.5
+'got court tomorrow wish luck',1
+'thanks friends kind greetings birthday . thank !',5
+'married three years today ! crazy .',4.5
+'fall quarter started today . long summer  . thanks memories .',2
+'gjdldbj ljgkh djgh kdh dghklhdl kjhgkj ! ! ! ! ! ! ! ! ! ! ! ! ! ! !',9
+'hiya !',5
+'start enthusiastic whatever like , golden age .',1.5
+'one day .. happy',3.5
+'psalm  happy  new international version    god  let foot slip watches slumber ,',1.5
+'thin swear could used whip drink beer keep britches hips knew ask mysteries life spit boots replied faster horses',1.5
+'doha day  pursuit hapiness usually ends something check wadobes check within daz secret hapiness !',4.5
+'three tenors  la donna e mobile  brindisi .. thats wat listening get better',2.5
+'waitin people come soon . happy',2.5
+'busy week work ohakune mardi gras yeah !',5
+'wish wind would stop blowing sick winter , want get go lake ! ! ! ! !',7
+'post photos !',5
+'share sea bass mom cause maris wanted steak .',1.5
+'people need understand children special needs illness , cure  contagious . want want , accepted .   probably wo copy paste . leave status least hour ? special education week , honor kids need little extra help  understanding',2.5
+'live without religion meditation , survive without human affection .',1.5
+'weekend back kerala full lusty rain ! ! !',6
+'home  days sprained hand ugh ! ! ! ! sucks',6.5
+'coolest person ever .',1.5
+'sleep shit ran sheep count cows fat jump',2
+'workin faults one time.makin progress',1
+'heart soul eater !',4.5
+'jumped chuck norris bathroom thats roll .',1.5
+'jobs interfering lost addiction .',1
+'game snooker today !  still got ! !',5
+'smells like cat poop',1.5
+'spending day family .. bday ! ! ! ! !',8
+'life got better got offered job paying  bucks hour oregon starting monday . sweet .',2
+'enjoy little things stop worrying happen tomorrow . take life one moment time make best . gentlement , gentleladies happy neeed invoke fever make others like us . world would much brighter .',2
+'tired .. zzzz ..',1.5
+'wow .  days row . outta control happy',2.5
+'birthday . get . tell happy birthday . already heard enough family',2.5
+'mustache wish face makes ..',1.5
+'holy geez . thank much birthday wishes ! bit overwhelming ! amazing ! definitely excellent birthweek ! many well wishing humbling moments beautiful everything !',6
+'well would like inform friends , family  things important relationship .   god ,   respect ,   communication , breakdown things listed , issues , drama ! !',5
+'school  minutes .. lol',2
